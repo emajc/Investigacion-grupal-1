@@ -170,6 +170,97 @@
     "tematica": "tecnologia",
     "enlace": "https://www.twitch.tv/twit/about"
   },
+#--Peliculas-------------------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "id_universal": "05",
+    "nombre": "noche violenta",
+    "director": "tommy wilkola",
+    "género": "acción",
+    "duracion_pelicula": "1 hora, 30 minutos, 27 segundos",
+    "cantidad_visualizaciones": "566,766 visualizaciones",
+    "enlace": "NOCHE VIOLENTA | STEVEN SEAGAL | PELICULA COMPLETA DE ACCION EN ESPANOL LATINO - YouTube"
+  },
+  {
+    "id_universal": "05",
+    "nombre": "super profesor",
+    "director": "carlos alazraqui",
+    "género": "comedia",
+    "duracion_pelicula": "1 hora, 27 minutos, 37 segundos",
+    "cantidad_visualizaciones": "310,000 visualizaciones",
+    "enlace": "SÚPER PROFESOR - Peliculas De Acción Aventura Fantasía Completas En Español Latino - YouTube"
+  },
+  {
+    "id_universal": "05",
+    "nombre": "soldierboy",
+    "director": "viktorina fanasyutina",
+    "género": "drama bélico",
+    "duracion_pelicula": "1 hora, 26 minutos, 22 segundos",
+    "cantidad_visualizaciones": "18,000,000 visualizaciones",
+    "enlace": "Soldierboy: El Pequeño Soldado - PELICULA COMPLETA EN ESPAÑOL - YouTube"
+  },
+  {
+    "id_universal": "05",
+    "nombre": "el nino y la guerra",
+    "director": "ben cookson",
+    "género": "drama",
+    "duracion_pelicula": "1 hora, 49 minutos, 3 segundos",
+    "cantidad_visualizaciones": "2,500,000 visualizaciones",
+    "enlace": "El niño y la guerra - Película completa en español - Película de Suspenso | Adrenalina Freezone - YouTube"
+  },
+  {
+    "id_universal": "05",
+    "nombre": "justicia del corazon",
+    "director": "brian brough",
+    "género": "drama",
+    "duracion_pelicula": "1 hora, 25 minutos, 41 segundos",
+    "cantidad_visualizaciones": "visualizaciones",
+    "enlace": "Justicia Del Corazón (2018) | Pelicula Completa | Randall Malin | Robert Milo Andrus | Bailey Heesch - YouTube"
+  },
+  {
+    "id_universal": "05",
+    "nombre": "un hombre extraordinario",
+    "director": "john lyde",
+    "género": "drama",
+    "duracion_pelicula": "1 hora, 30 minutos, 25 segundos",
+    "cantidad_visualizaciones": "visualizaciones",
+    "enlace": "Un Hombre Extradinario (2015) | Pelicula Completa | Jake Stormoen | Brian Krause | Melanie Stone - YouTube"
+  },
+  {
+    "id_universal": "05",
+    "nombre": "flores de papel",
+    "director": "gabriel retes",
+    "género": "thriller y drama",
+    "duracion_pelicula": "1 hora, 36 minutos, 21 segundos",
+    "cantidad_visualizaciones": "4,600,000 visualizaciones",
+    "enlace": "Flores de papel | Películas Completas en Español Latino - YouTube"
+  },
+  {
+    "id_universal": "05",
+    "nombre": "esposa ficticia",
+    "director": "new films international",
+    "género": "drama",
+    "duracion_pelicula": "1 hora, 30 minutos, 10 segundos",
+    "cantidad_visualizaciones": "18,000,000 visualizaciones",
+    "enlace": "Esposa ficticia HD. Películas Completas en Español - YouTube"
+  },
+  {
+    "id_universal": "05",
+    "nombre": "mi loca familia",
+    "director": "tim allen",
+    "género": "drama",
+    "duracion_pelicula": "1 hora, 36 minutos, 28 segundos",
+    "cantidad_visualizaciones": "2,800,000 visualizaciones",
+    "enlace": "Mi Loca Familia | Pelicula Completa Comedia | Tim Allen, Sigourney Weaver, Ray Liotta, JK Simmons - YouTube"
+  },
+  {
+    "id_universal": "05",
+    "nombre": "la delgada linea amarilla",
+    "director": "celso r.garcia",
+    "género": "comedia dramática",
+    "duracion_pelicula": "1 hora, 35 minutos, 42 segundos",
+    "cantidad_visualizaciones": "1,400,000",
+    "enlace": "LA DELGADA LINEA AMARILLA (PELÍCULA COMPLETA) - YouTube"
+  }
   {
     "id_universal": "02",
     "canal": "viviendoenlacalle",
