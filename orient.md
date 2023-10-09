@@ -74,6 +74,6 @@ Una vez haya instalado correctamente OrientDB, tiene dos opciones para cargar la
 
 2. En OrientDB Studio, cree una nueva base de datos haciendo clic en el botón "New DB". Ingrese el usuario "root" y la contraseña que configuró durante la instalación de OrientDB.
 
-3. Vaya al documento de este repositorio "Creación de Base de Datos OrientDB" y copie y pegue línea por línea el código del documento en la sección "Search" de OrientDB Studio.
+3. Vaya al documento de este repositorio [Código txt de Base de Datos OrientDB](codigobaseorientdb) y copie y pegue línea por línea el código del documento en la sección "Search" de OrientDB Studio.
 
 4. En OrientDB Studio, seleccione la opción "Schema" y asegúrese de que las clases Vertex estén creadas, incluyendo V, Escrito, Multimedia, Libros, Películas, Twitch, Canciones y Podcasts.
