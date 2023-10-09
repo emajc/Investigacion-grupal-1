@@ -362,3 +362,93 @@
     "cantidad_visualizaciones": "1,400,000",
     "enlace": "LA DELGADA LINEA AMARILLA (PELÍCULA COMPLETA) - YouTube"
   }
+#-Poscadts-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{
+    "id_universal": "04",
+    "nombre": "se regalan dudas",
+    "autor": "ashley frangie y lety sahagun",
+    "tipo": "comunicacion",
+    "constancia": "semanal",
+    "calificacion_estrellas": 4.9,
+    "enlace": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzLzYxN2MwZDIwOGFmZTM3MDAxMmRkZjE0NQ?sa=X&ved=2ahUKEwjl-6PdueeBAxU0koQIHSkDDUgQ9sEGegQIARAD&hl=es"
+  },
+  {
+    "id_universal": "04",
+    "nombre": "matices",
+    "autor": "radio monumental",
+    "tipo": "analisis y opinion",
+    "pais": "costa rica",
+    "duracion": "alrededor de 40 minutos",
+    "enlace": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS8yOGZFaDVROA?sa=X&ved=0CAMQ4aUDahgKEwjI7u_eueeBAxUAAAAAHQAAAAAQ1AI&hl=es"
+  },
+  {
+    "id_universal": "04",
+    "nombre": "enigmas sin resolver",
+    "autor": "univision",
+    "tipo": "crimen, terror y sucesos paranormales",
+    "presentadora": "luisa iglesias",
+    "conferencias": "mexico y centroamerica",
+    "enlace": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS8ybUVkQmFrRw?sa=X&ved=0CDgQjs4CKAJqFwoTCMju796554EDFQAAAAAdAAAAABAB&hl=es"
+  },
+  {
+    "id_universal": "04",
+    "nombre": "despertando",
+    "autor": "dudas media",
+    "tipo": "bienestar y salud",
+    "duracion": "5 minutos",
+    "contacto": "info@dudasmedia.com",
+    "enlace": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzLzYxN2MwMjM2Y2M0NjcxMDAxM2IzNWFlYQ?sa=X&ved=0CDcQjs4CKAJqFwoTCMju796554EDFQAAAAAdAAAAABAB&hl=es"
+  },
+  {
+    "id_universal": "04",
+    "nombre": "padre rico, padre pobre",
+    "autor": "eublack latino",
+    "tipo": "finanzas",
+    "cantidad_publicaciones": 9,
+    "basado_en": "libro",
+    "enlace": "https://podcasts.google.com/feed/aHR0cHM6Ly91cy5pdm9veC5jb20vZXMvZXNwb2RjYXN0LXBhZHJlLXJpY28tcGFkcmUtcG9icmVfZmdfZjE2MDY0NDBfZmlsdHJvXzEueG1s?sa=X&ved=0CGQQjs4CKARqFwoTCMju796554EDFQAAAAAdAAAAABAB&hl=es"
+  },
+  {
+    "id_universal": "04",
+    "nombre": "filosofia, psicologia, historias",
+    "autor": "hernan melana",
+    "tipo": "ciencias sociales",
+    "cantidad_publicaciones": 280,
+    "duracion_promedio": "5 minutos",
+    "enlace": "https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDU4OTM4Ni9lcGlzb2Rlcy9mZWVk?sa=X&ved=0CJYBEI7OAigGahcKEwjI7u_eueeBAxUAAAAAHQAAAAAQAQ&hl=es"
+  },
+  {
+    "id_universal": "04",
+    "nombre": "la corneta",
+    "autor": "los 40",
+    "tipo": "entretenimiento",
+    "presentador": "eduardo videgaray y jose ramon san cristobal",
+    "dias_publicacion": "lunes a viernes",
+    "enlace": "https://podcasts.google.com/feed/aHR0cDovL2ZhcGktdG9wLnByaXNhc2QuY29tL3BvZGNhc3QvbG9zNDBtZXhpY28vbGFfY29ybmV0YS9pdHVuZXN0ZnAvcG9kY2FzdC54bWw?sa=X&ved=0CH4Qjs4CKAVqFwoTCMju796554EDFQAAAAAdAAAAABAB&hl=es"
+  },
+  {
+    "id_universal": "04",
+    "nombre": "cuentos y relatos",
+    "autor": "jmt",
+    "tipo": "literatura",
+    "genero": "misterio, ciencia ficcion, terror, fantastico, policiaco, costumbrista",
+    "tipo_lenguaje": "explicito",
+    "enlace": "https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuaXZvb3guY29tL2N1ZW50b3MtcmVsYXRvc19mZ19mMTQ1ODM0N19maWx0cm9fMS54bWw?sa=X&ved=0CJsBEI7OAigGahcKEwjI7u_eueeBAxUAAAAAHQAAAAAQAQ&hl=es"
+  },
+  {
+    "id_universal": "04",
+    "nombre": "tierra de hackers",
+    "autor": "martin vigo y alexis porros",
+    "tipo": "ciberseguridad",
+    "temas": "hacking, ciberamenazas y privacidad en Internet",
+    "calificacion_estrellas": 4,
+    "enlace": "https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuaXZvb3guY29tL3BvZGNhc3QtdGllcnJhLWhhY2tlcnNfZmdfZjE4OTE4NjNfZmlsdHJvXzEueG1s?sa=X&ved=0CLABEI7OAigHahcKEwjI7u_eueeBAxUAAAAAHQAAAAAQAQ&hl=es"
+  },
+  {
+    "id_universal": "04",
+    "nombre": "el hilo",
+    "autor": "radio ambulante estudios",
+    "tipo": "comunicacion",
+    "region_interes": "america latina",
+    "dias_publicacion": "viernes",
+    "enlace": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzLzI4ZjhlZjA3LTgzMzktNTlhMC05ZjFhLWUwMmM2NDlhNmZlYQ?sa=X&ved=0CEIQjs4CKAJqFwoTCMju796554EDFQAAAAAdAAAAABAB&hl=es"
