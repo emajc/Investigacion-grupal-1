@@ -170,6 +170,16 @@
     "tematica": "tecnologia",
     "enlace": "https://www.twitch.tv/twit/about"
   },
+  {
+    "id_universal": "02",
+    "canal": "viviendoenlacalle",
+    "autor": "jony",
+    "genero": "viajes",
+    "trabajo": "uber",
+    "correo": "jony@voiceandviews.es",
+    "enlace": "https://www.twitch.tv/viviendoenlacalle"
+  }
+
 #--Peliculas-------------------------------------------------------------------------------------------------------------------------------------------------
   {
     "id_universal": "05",
@@ -260,13 +270,4 @@
     "duracion_pelicula": "1 hora, 35 minutos, 42 segundos",
     "cantidad_visualizaciones": "1,400,000",
     "enlace": "LA DELGADA LINEA AMARILLA (PELÍCULA COMPLETA) - YouTube"
-  }
-  {
-    "id_universal": "02",
-    "canal": "viviendoenlacalle",
-    "autor": "jony",
-    "genero": "viajes",
-    "trabajo": "uber",
-    "correo": "jony@voiceandviews.es",
-    "enlace": "https://www.twitch.tv/viviendoenlacalle"
   }
