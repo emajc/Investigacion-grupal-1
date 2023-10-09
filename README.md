@@ -47,3 +47,26 @@ CouchDB se caracteriza por su flexibilidad en cuanto a las variables o propiedad
 Por otro lado, OrientDB está diseñado para manejar datos semiestructurados, por lo que se optó por trabajar con un conjunto de variables predefinidas y fijas para cada clase. Esto permite mantener una estructura más controlada en la base de datos.
 
 En resumen, cada uno de los cinco tipos de documentos se compone de diez registros, lo que nos brinda la oportunidad de crear bases de datos con la misma información y, al mismo tiempo, comparar de manera efectiva la estructura y funcionalidad de CouchDB y OrientDB en este contexto específico.loading 2readme.txt…]()
+
+# Bases de Datos
+
+## Acceso a las Bases de Datos
+
+Para acceder a las bases de datos, por favor, siga las instrucciones específicas para cada uno de los dos programas estudiados contenidas en las siguientes secciones:
+
+- **CouchDB**: [Enlace al documento de acceso](#enlace-a-documento-de-couchdb)
+- **OrientDB**: [Enlace al documento de acceso](#enlace-a-documento-de-orientdb)
+
+## Análisis y Comparación
+
+Para analizar y comparar ambos programas en relación con las ventajas y desventajas de usar bases de datos orientadas a documentos, hemos preparado un informe detallado que puede encontrar [aquí](#enlace-a-documento-de-analisis). A continuación, destacamos algunos de los puntos clave que hemos evaluado:
+
+- **Consistencia**: Evaluación de la consistencia de los datos en la base de datos.
+- **Desempeño en la inserción de datos**: Medición del rendimiento al agregar nuevos datos.
+- **Desempeño en recuperación de datos**: Evaluación de la rapidez con la que se pueden recuperar los datos.
+- **Facilidad de uso**: Evaluación de la amigabilidad y facilidad de uso de la interfaz del programa.
+- **Herramientas de gestión**: Revisión de las herramientas disponibles para administrar y mantener la base de datos.
+- **Método utilizado para hacer consultas**: Descripción de los métodos y lenguajes utilizados para realizar consultas.
+- **Almacenamiento**: Análisis de cómo se almacenan y gestionan los datos en la base de datos.
+
+Consulte el informe completo [aquí](#enlace-a-documento-de-analisis) para obtener detalles sobre sus conclusiones y recomendaciones.
