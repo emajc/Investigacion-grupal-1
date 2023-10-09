@@ -19,7 +19,6 @@ Para evaluar la conveniencia de utilizar una base de datos NoSQL orientada a doc
 
 Este documento aborda la problemática, explora las razones detrás de la elección de una base de datos NoSQL y presenta dos opciones de software para llevar a cabo una comparación exhaustiva de sus características en la implementación de bases de datos de este tipo.
 
-Te invitamos a explorar este repositorio y sumergirte en el mundo de las bases de datos NoSQL orientadas a documentos. Esperamos que esta exploración te brinde una comprensión sólida de estas tecnologías y cómo pueden aplicarse en situaciones del mundo real.
 
 # Exploración de Bases de Datos Orientadas a Documentos
 
