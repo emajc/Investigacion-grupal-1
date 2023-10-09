@@ -1,4 +1,3 @@
-[2readme.txt](https://github.com/emajc/Investigacion-grupal-1/files/12843397/2readme.txt)# Bases de Datos NoSQL Orientadas a Documentos
 
 ## Introducción
 
