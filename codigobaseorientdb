@@ -13,3 +13,32 @@ create property Libros.nombre string
 create property Libros.autor string
 create property Libros.enlace string
 create property Libros.enfoque string
+
+create property Twitch.id integer
+alter property Twitch.id mandatory true
+create property Twitch.canal string
+create property Twitch.autor string
+create property Twitch.enlace string
+create property Twitch.genero string
+
+create property Canciones.id integer
+alter property Canciones.id mandatory true
+create property Canciones.nombre string
+create property Canciones.autor string
+create property Canciones.enlace string
+
+create property Podcasts.id integer
+alter property Podcasts.id mandatory true
+create property Podcasts.nombre string
+create property Podcasts.autor string
+create property Podcasts.enlace string
+create property Podcasts.tipo string
+
+create property Peliculas.id integer
+alter property Peliculas.id mandatory true
+create property Peliculas.nombre string
+create property Peliculas.director string
+create property Peliculas.genero string
+create property Peliculas.duracion string
+create property Peliculas.publicacion string
+create property Peliculas.enlace string
