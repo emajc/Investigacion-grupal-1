@@ -179,6 +179,97 @@
     "correo": "jony@voiceandviews.es",
     "enlace": "https://www.twitch.tv/viviendoenlacalle"
   }
+#--CANCIONES SPOTIFY---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "id_universal": "03",
+    "nombre": "willow",
+    "autor": "taylor swift",
+    "genero": "chamber pop indie folk pop",
+    "publicacion": "11 diciembre 2020",
+    "album": "evermore",
+    "enlace": "https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"
+  },
+  {
+    "id_universal": "03",
+    "nombre": "todo se transforma",
+    "autor": "jorge drexler",
+    "genero": "rock en español",
+    "duracion": "3 minutos, 37 segundos",
+    "reproducciones": "83,960,983",
+    "enlace": "https://open.spotify.com/intl-es/track/4YEU9N2XAE0DfUwxWI5ijA"
+  },
+  {
+    "id_universal": "03",
+    "nombre": "rene",
+    "autor": "residente",
+    "genero": "urbano latino",
+    "enfoque": "autobiografico",
+    "nombre_real": "rene perez joglar",
+    "enlace": "https://open.spotify.com/intl-es/track/6gm12xlADJwiBbHIKBXzGW"
+  },
+  {
+    "id_universal": "03",
+    "nombre": "colapso",
+    "autor": "kevin kaarl",
+    "genero": "folk",
+    "annio_publicacion": 2019,
+    "album": "hasta el fin del mundo",
+    "enlace": "https://open.spotify.com/intl-es/track/7dT9D6117e5DbhnKxDLNW9"
+  },
+  {
+    "id_universal": "03",
+    "nombre": "try",
+    "autor": "p!nk",
+    "genero": "electropop",
+    "tipo_voz": "contralto",
+    "lengua": "ingles",
+    "enlace": "https://open.spotify.com/intl-es/track/1jF7IL57ayN4Ity3jQqGu0"
+  },
+  {
+    "id_universal": "03",
+    "nombre": "paris",
+    "autor": "the chainsmokers",
+    "genero": "synth pop",
+    "publicacion": "7 abril 2017",
+    "lengua": "ingles",
+    "enlace": "https://open.spotify.com/intl-es/track/72jbDTw1piOOj770jWNeaG"
+  },
+  {
+    "id_universal": "03",
+    "nombre": "tsu",
+    "autor": "drake",
+    "genero": "pop rap",
+    "nombre_real": "aubrey drake graham",
+    "discografica": "ovo",
+    "enlace": "https://open.spotify.com/intl-es/track/4s7QLoImIwmPi9L6dq1nVW"
+  },
+  {
+    "id_universal": "03",
+    "nombre": "heaven",
+    "autor": "niall horan",
+    "genero": "pop",
+    "anterior_miembro": "one direction",
+    "ocupacion": "cantante y compositor",
+    "enlace": "https://open.spotify.com/intl-es/track/5FQ77Cl1ndljtwwImdtjMy"
+  },
+  {
+    "id_universal": "03",
+    "nombre": "dile",
+    "autor": "don omar",
+    "genero": "regueton",
+    "annio_grabacion": 2003,
+    "duracion": "3 minutos, 27 segundos",
+    "enlace": "https://open.spotify.com/intl-es/track/69Ej1xrGjOcHvIMtMKxK0G"
+  },
+  {
+    "id_universal": "03",
+    "nombre": "good as hell",
+    "autor": "lizzo",
+    "genero": "pop",
+    "formato": "digital",
+    "productor": "ricky reed",
+    "enlace": "https://open.spotify.com/intl-es/track/6KgBpzTuTRPebChN0VTyzV"
+  }
 
 #--Peliculas-------------------------------------------------------------------------------------------------------------------------------------------------
   {
@@ -270,95 +361,4 @@
     "duracion_pelicula": "1 hora, 35 minutos, 42 segundos",
     "cantidad_visualizaciones": "1,400,000",
     "enlace": "LA DELGADA LINEA AMARILLA (PELÍCULA COMPLETA) - YouTube"
-  }
-#--CANCIONES SPOTIFY---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  {
-    "id_universal": "03",
-    "nombre": "willow",
-    "autor": "taylor swift",
-    "genero": "chamber pop indie folk pop",
-    "publicacion": "11 diciembre 2020",
-    "album": "evermore",
-    "enlace": "https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"
-  },
-  {
-    "id_universal": "03",
-    "nombre": "todo se transforma",
-    "autor": "jorge drexler",
-    "genero": "rock en español",
-    "duracion": "3 minutos, 37 segundos",
-    "reproducciones": "83,960,983",
-    "enlace": "https://open.spotify.com/intl-es/track/4YEU9N2XAE0DfUwxWI5ijA"
-  },
-  {
-    "id_universal": "03",
-    "nombre": "rene",
-    "autor": "residente",
-    "genero": "urbano latino",
-    "enfoque": "autobiografico",
-    "nombre_real": "rene perez joglar",
-    "enlace": "https://open.spotify.com/intl-es/track/6gm12xlADJwiBbHIKBXzGW"
-  },
-  {
-    "id_universal": "03",
-    "nombre": "colapso",
-    "autor": "kevin kaarl",
-    "genero": "folk",
-    "annio_publicacion": 2019,
-    "album": "hasta el fin del mundo",
-    "enlace": "https://open.spotify.com/intl-es/track/7dT9D6117e5DbhnKxDLNW9"
-  },
-  {
-    "id_universal": "03",
-    "nombre": "try",
-    "autor": "p!nk",
-    "genero": "electropop",
-    "tipo_voz": "contralto",
-    "lengua": "ingles",
-    "enlace": "https://open.spotify.com/intl-es/track/1jF7IL57ayN4Ity3jQqGu0"
-  },
-  {
-    "id_universal": "03",
-    "nombre": "paris",
-    "autor": "the chainsmokers",
-    "genero": "synth pop",
-    "publicacion": "7 abril 2017",
-    "lengua": "ingles",
-    "enlace": "https://open.spotify.com/intl-es/track/72jbDTw1piOOj770jWNeaG"
-  },
-  {
-    "id_universal": "03",
-    "nombre": "tsu",
-    "autor": "drake",
-    "genero": "pop rap",
-    "nombre_real": "aubrey drake graham",
-    "discografica": "ovo",
-    "enlace": "https://open.spotify.com/intl-es/track/4s7QLoImIwmPi9L6dq1nVW"
-  },
-  {
-    "id_universal": "03",
-    "nombre": "heaven",
-    "autor": "niall horan",
-    "genero": "pop",
-    "anterior_miembro": "one direction",
-    "ocupacion": "cantante y compositor",
-    "enlace": "https://open.spotify.com/intl-es/track/5FQ77Cl1ndljtwwImdtjMy"
-  },
-  {
-    "id_universal": "03",
-    "nombre": "dile",
-    "autor": "don omar",
-    "genero": "regueton",
-    "annio_grabacion": 2003,
-    "duracion": "3 minutos, 27 segundos",
-    "enlace": "https://open.spotify.com/intl-es/track/69Ej1xrGjOcHvIMtMKxK0G"
-  },
-  {
-    "id_universal": "03",
-    "nombre": "good as hell",
-    "autor": "lizzo",
-    "genero": "pop",
-    "formato": "digital",
-    "productor": "ricky reed",
-    "enlace": "https://open.spotify.com/intl-es/track/6KgBpzTuTRPebChN0VTyzV"
   }
