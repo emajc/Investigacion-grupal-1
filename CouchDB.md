@@ -1,6 +1,6 @@
 #Instrucciones para acceder a una base de datos CouchDB
 
-A continuación, se detallan los pasos necesarios para descargar, instalar y configurar CouchDB en su sistema: 
+A continuacion, se detallan los pasos necesarios para descargar, instalar y configurar CouchDB en su sistema: 
 
 #1. Requerimientos del Sistema
 
