@@ -46,7 +46,7 @@ Una vez haya instalado correctamente OrientDB, tiene dos opciones para cargar la
 
 4. Ejecute esta línea de código en la consola: `CONNECT remote:localhost/<nombre de la base de datos recién creada> root <contraseña que configuró para OrientDB>`.
 
-5. Descargue el archivo [Base de Datos OrientDB] (biblioteca.gz) ubicado en este repositorio.
+5. Descargue el archivo [Base de Datos OrientDB](biblioteca.gz) ubicado en este repositorio.
    
 6. Una vez que la conexión haya sido aceptada y haya descargado la base de datos (paso 5), ejecute esta línea de código en la consola para cargar la base de datos: `IMPORT DATABASE <ubicación de la base de datos recién descargada> -preserveClusterIDs=true`.
 
