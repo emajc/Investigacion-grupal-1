@@ -52,6 +52,8 @@ Una vez haya instalado correctamente OrientDB, tiene dos opciones para cargar la
 
 7. En OrientDB Studio, seleccione la opción "Schema" y asegúrese de que las clases Vertex estén creadas, incluyendo V, Escrito, Multimedia, Libros, Películas, Twitch, Canciones y Podcasts.
 
+8. Si se carga la base de datos por medio de este método, no es necesario ingresar los datos por aparte, pues están almacenados en la misma base. Si siguió este método, no siga los pasos al final de estas instrucciones donde se especifican los pasos para agregar datos.
+   
 ## Opción 2: Creación Manual de la Base de Datos
 
 ### Opción 2.1
