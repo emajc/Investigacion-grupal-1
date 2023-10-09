@@ -26,9 +26,9 @@ Para configurar OrientDB, siga estos pasos:
 
 - Una vez que el servidor de OrientDB esté en funcionamiento, se le pedirá que configure una contraseña de administrador. Asegúrese de recordar esta contraseña, ya que la necesitará para acceder a las bases de datos.
 
-## 5. Acceso a OrientDB
+## 5. Acceso a OrientDB Studio
 
-Abra su navegador web y vaya a la siguiente dirección: [http://localhost:2480](http://localhost:2480). Esto le llevará al panel de administración de OrientDB, donde podrá crear, administrar y acceder a sus bases de datos.
+Abra su navegador web y vaya a la siguiente dirección: [http://localhost:2480](http://localhost:2480). Esto le llevará al panel de administración de OrientDB, donde podrá crear, administrar y acceder a sus bases de datos. De aquí en adelante, se entiende que OrientDB Studio se refiere a la interfaz habilitada en localhost:2480.
 
 Siguiendo estos pasos, habrá instalado y configurado OrientDB en su sistema y estará listo para comenzar a trabajar con bases de datos orientadas a documentos utilizando esta poderosa herramienta.
 
