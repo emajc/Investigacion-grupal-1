@@ -1,4 +1,4 @@
-# Bases de Datos NoSQL Orientadas a Documentos
+[2readme.txt](https://github.com/emajc/Investigacion-grupal-1/files/12843397/2readme.txt)# Bases de Datos NoSQL Orientadas a Documentos
 
 ## Introducción
 
@@ -21,3 +21,29 @@ Para evaluar la conveniencia de utilizar una base de datos NoSQL orientada a doc
 Este documento aborda la problemática, explora las razones detrás de la elección de una base de datos NoSQL y presenta dos opciones de software para llevar a cabo una comparación exhaustiva de sus características en la implementación de bases de datos de este tipo.
 
 Te invitamos a explorar este repositorio y sumergirte en el mundo de las bases de datos NoSQL orientadas a documentos. Esperamos que esta exploración te brinde una comprensión sólida de estas tecnologías y cómo pueden aplicarse en situaciones del mundo real.
+
+# Exploración de Bases de Datos Orientadas a Documentos
+
+En este proyecto, exploramos las características y ventajas de las bases de datos orientadas a documentos en el contexto de una biblioteca digital. Estas bases de datos son una alternativa interesante cuando se trata de almacenar datos con flexibilidad estructural.
+
+## Selección de Software
+
+Para llevar a cabo una comparación de características, elegimos dos software diferentes:
+
+### CouchDB
+
+CouchDB es una base de datos NoSQL orientada a documentos que se destaca por su capacidad de manejar datos semiestructurados y su facilidad de escalabilidad. Elegimos CouchDB debido a su capacidad para abordar la problemática específica de nuestra biblioteca digital.
+
+### OrientDB
+
+OrientDB es otra base de datos NoSQL que combina las características de una base de datos orientada a documentos con las de una base de datos de gráficos. Esta elección se basa en su versatilidad y capacidad para manejar una amplia gama de tipos de datos.
+
+## Características de la base de datos.
+
+En ambos casos, abordamos la exploración de cinco tipos de documentos: Libros, Canciones, Podcasts, Canales de Twitch y Películas. Estos tipos se categorizaron en CouchDB mediante un identificador único (ID) y en OrientDB mediante clases. Para cada uno de estos tipos de documentos, se seleccionaron variables o propiedades específicas que se consideran esenciales en un repositorio o biblioteca digital, dependiendo del tipo de archivo.
+
+CouchDB se caracteriza por su flexibilidad en cuanto a las variables o propiedades que se pueden incluir en cada registro. Esto se debe a que CouchDB trabaja con bases de datos completamente no estructuradas, lo que le otorga una versatilidad excepcional en la diversidad de datos que puede contener en cada registro.
+
+Por otro lado, OrientDB está diseñado para manejar datos semiestructurados, por lo que se optó por trabajar con un conjunto de variables predefinidas y fijas para cada clase. Esto permite mantener una estructura más controlada en la base de datos.
+
+En resumen, cada uno de los cinco tipos de documentos se compone de diez registros, lo que nos brinda la oportunidad de crear bases de datos con la misma información y, al mismo tiempo, comparar de manera efectiva la estructura y funcionalidad de CouchDB y OrientDB en este contexto específico.loading 2readme.txt…]()
