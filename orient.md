@@ -64,7 +64,7 @@ Una vez haya instalado correctamente OrientDB, tiene dos opciones para cargar la
 
 4. Ejecute esta línea de código en la consola: `CONNECT remote:localhost/<nombre de la base de datos recién creada> root <contraseña que configuró para OrientDB>`.
 
-5. Vaya al documento de este repositorio "Creación de Base de Datos OrientDB" y en una sola corrida, copie y pegue todo el código en la consola de OrientDB.
+5. Vaya al documento de este repositorio [Código txt de Base de Datos OrientDB](codigobaseorientdb) y en una sola corrida, copie y pegue todo el código en la consola de OrientDB.
 
 6. En OrientDB Studio, seleccione la opción "Schema" y asegúrese de que las clases Vertex estén creadas, incluyendo V, Escrito, Multimedia, Libros, Películas, Twitch, Canciones y Podcasts.
 
