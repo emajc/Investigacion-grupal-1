@@ -32,3 +32,46 @@ Abra su navegador web y vaya a la siguiente dirección: [http://localhost:2480](
 
 Siguiendo estos pasos, habrá instalado y configurado OrientDB en su sistema y estará listo para comenzar a trabajar con bases de datos orientadas a documentos utilizando esta poderosa herramienta.
 
+# Instrucciones para Cargar la Base de Datos en OrientDB
+
+Una vez haya instalado correctamente OrientDB, tiene dos opciones para cargar la base de datos.
+
+## Opción 1: Carga por Medio de la Consola de OrientDB
+
+1. Abra el archivo `server.bat` en la carpeta `bin` que se encuentra en la carpeta de la descarga de OrientDB.
+
+2. En OrientDB Studio, cree una nueva base de datos haciendo clic en el botón "New DB". Ingrese el usuario "root" y la contraseña que configuró durante la instalación de OrientDB.
+
+3. Abra el archivo `console` en la carpeta `bin` que se encuentra en la carpeta de la descarga de OrientDB.
+
+4. Ejecute esta línea de código en la consola: `CONNECT remote:localhost/<nombre de la base de datos recién creada> root <contraseña que configuró para OrientDB>`.
+
+5. Una vez que la conexión haya sido aceptada, ejecute esta línea de código en la consola para cargar la base de datos: `IMPORT DATABASE <ubicación de la base de datos> -preserveClusterIDs=true`.
+
+6. En OrientDB Studio, seleccione la opción "Schema" y asegúrese de que las clases Vertex estén creadas, incluyendo V, Escrito, Multimedia, Libros, Películas, Twitch, Canciones y Podcasts.
+
+## Opción 2: Creación Manual de la Base de Datos
+
+### Opción 2.1
+
+1. Abra el archivo `server.bat` en la carpeta `bin` que se encuentra en la carpeta de la descarga de OrientDB.
+
+2. En OrientDB Studio, cree una nueva base de datos haciendo clic en el botón "New DB". Ingrese el usuario "root" y la contraseña que configuró durante la instalación de OrientDB.
+
+3. Abra el archivo `console` en la carpeta `bin` que se encuentra en la carpeta de la descarga de OrientDB.
+
+4. Ejecute esta línea de código en la consola: `CONNECT remote:localhost/<nombre de la base de datos recién creada> root <contraseña que configuró para OrientDB>`.
+
+5. Vaya al documento de este repositorio "Creación de Base de Datos OrientDB" y en una sola corrida, copie y pegue todo el código en la consola de OrientDB.
+
+6. En OrientDB Studio, seleccione la opción "Schema" y asegúrese de que las clases Vertex estén creadas, incluyendo V, Escrito, Multimedia, Libros, Películas, Twitch, Canciones y Podcasts.
+
+### Opción 2.2
+
+1. Abra el archivo `server.bat` en la carpeta `bin` que se encuentra en la carpeta de la descarga de OrientDB.
+
+2. En OrientDB Studio, cree una nueva base de datos haciendo clic en el botón "New DB". Ingrese el usuario "root" y la contraseña que configuró durante la instalación de OrientDB.
+
+3. Vaya al documento de este repositorio "Creación de Base de Datos OrientDB" y copie y pegue línea por línea el código del documento en la sección "Search" de OrientDB Studio.
+
+4. En OrientDB Studio, seleccione la opción "Schema" y asegúrese de que las clases Vertex estén creadas, incluyendo V, Escrito, Multimedia, Libros, Películas, Twitch, Canciones y Podcasts.
