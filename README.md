@@ -16,7 +16,7 @@ Las bases de datos orientadas a documentos son un subconjunto de las bases de da
 
 Para evaluar la conveniencia de utilizar una base de datos NoSQL orientada a documentos, hemos planteado un escenario práctico: una biblioteca digital. En este contexto, la flexibilidad y la eficiencia en el almacenamiento de datos son fundamentales. Para obtener más detalles sobre nuestra propuesta, consulta el siguiente documento en el repositorio:
 
-[Propuesta NOSQL](Propuesta%NOSQL.pdf)
+[Propuesta NOSQL](PropuestaNOSQL.pdf)
 
 Este documento aborda la problemática, explora las razones detrás de la elección de una base de datos NoSQL y presenta dos opciones de software para llevar a cabo una comparación exhaustiva de sus características en la implementación de bases de datos de este tipo.
 
