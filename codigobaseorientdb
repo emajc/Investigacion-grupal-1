@@ -1,0 +1,15 @@
+create class Escritos extends V abstract
+create class Libros extends Escritos
+
+create class Multimedia extends V abstract
+create class Twitch extends Multimedia
+create class Canciones extends Multimedia
+create class Podcasts extends Multimedia
+create class Peliculas extends Multimedia
+
+create property Libros.id integer
+alter property Libros.id mandatory true
+create property Libros.nombre string
+create property Libros.autor string
+create property Libros.enlace string
+create property Libros.enfoque string
