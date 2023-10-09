@@ -88,3 +88,94 @@
     "materia": "salud mental",
     "enlace": "https://elibro-net.ezproxy.sibdi.ucr.ac.cr/es/lc/sibdi/titulos/236110"
   }
+#--STREAMS TWITTCH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "id_universal": "02",
+    "canal": "economiaapolpetter",
+    "autor": "jacopo",
+    "genero": "economia",
+    "redes_sociales": "youtube e instagram",
+    "negocio": "cryptomonedas",
+    "enlace": "https://www.twitch.tv/economia_a_polpette/about"
+  },
+  {
+    "id_universal": "02",
+    "canal": "auronplay",
+    "autor": "raul",
+    "genero": "entretenimiento",
+    "descripcion": "feliz pero no mucho",
+    "juegos": "payday y minecraft",
+    "enlace": "https://www.twitch.tv/auronplay"
+  },
+  {
+    "id_universal": "02",
+    "canal": "juanma6sanchez",
+    "autor": "juan sanchez",
+    "genero": "deportes",
+    "contenido": "charladeportiva",
+    "nacionalidad": "español",
+    "enlace": "https://www.twitch.tv/juanma6sanchez"
+  },
+  {
+    "id_universal": "02",
+    "canal": "beardedcooking",
+    "autor": "desconocido",
+    "genero": "cocina",
+    "redes_sociales": "instagram",
+    "categorias": "food and drink",
+    "enlace": "https://www.twitch.tv/beardedcooking"
+  },
+  {
+    "id_universal": "02",
+    "canal": "thepeapodf",
+    "autor": "pealeaf",
+    "genero": "musica",
+    "idioma": "ingles",
+    "continente": "asia",
+    "enlace": "https://www.twitch.tv/pealeaf"
+  },
+  {
+    "id_universal": "02",
+    "canal": "lana_lux",
+    "autor": "lana",
+    "genero": "programming",
+    "comunidad": "discord",
+    "hora_inicio": "9 am",
+    "enlace": "https://www.twitch.tv/lana_lux/about"
+  },
+  {
+    "id_universal": "02",
+    "canal": "hikariookami",
+    "autor": "desconocido",
+    "genero": "arte y manualidades",
+    "opening": "alive yunosuke",
+    "ending": "checkmate kirara magic",
+    "enlace": "https://www.twitch.tv/hikariookami/about"
+  },
+  {
+    "id_universal": "02",
+    "canal": "fire kitchen",
+    "autor": "fabian",
+    "genero": "asmr",
+    "horario": "24h 7dias",
+    "localidad": "hamburg",
+    "enlace": "https://www.twitch.tv/fire_kitchen/about"
+  },
+  {
+    "id_universal": "02",
+    "canal": "twit",
+    "autor": "leo laporte",
+    "genero": "charlas",
+    "visores_concurrentes": "estadounidenses",
+    "tematica": "tecnologia",
+    "enlace": "https://www.twitch.tv/twit/about"
+  },
+  {
+    "id_universal": "02",
+    "canal": "viviendoenlacalle",
+    "autor": "jony",
+    "genero": "viajes",
+    "trabajo": "uber",
+    "correo": "jony@voiceandviews.es",
+    "enlace": "https://www.twitch.tv/viviendoenlacalle"
+  }
