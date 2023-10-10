@@ -271,7 +271,7 @@
     "productor": "ricky reed",
     "enlace": "https://open.spotify.com/intl-es/track/6KgBpzTuTRPebChN0VTyzV"
   }
-#-Poscadts-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#-Poscadts Google-Podcast -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 {
     "id_universal": "04",
     "nombre": "se regalan dudas",
@@ -362,7 +362,7 @@
     "dias_publicacion": "viernes",
     "enlace": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5hY2FzdC5jb20vcHVibGljL3Nob3dzLzI4ZjhlZjA3LTgzMzktNTlhMC05ZjFhLWUwMmM2NDlhNmZlYQ?sa=X&ved=0CEIQjs4CKAJqFwoTCMju796554EDFQAAAAAdAAAAABAB&hl=es"
  }
-#--Peliculas-------------------------------------------------------------------------------------------------------------------------------------------------
+#--Peliculas YouTube -------------------------------------------------------------------------------------------------------------------------------------------------
   {
     "id_universal": "05",
     "nombre": "noche violenta",
