@@ -51,7 +51,7 @@ En resumen, cada uno de los cinco tipos de documentos se compone de diez registr
 
 Para acceder a las bases de datos, por favor, siga las instrucciones específicas para cada uno de los dos programas estudiados contenidas en las siguientes secciones:
 
-- **CouchDB**: [Enlace al documento de acceso](#enlace-a-documento-de-couchdb)
+- **CouchDB**: [Enlace al documento de acceso](CouchDB.md)
 - **OrientDB**: [Enlace al documento de acceso](orient.md)
 
 ## Análisis y Comparación
