@@ -1,0 +1,5002 @@
+[
+  {
+    "id_universal": ["1001"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1002"],
+    "documento_tipo": [3],
+    "nombre": ["drivers license"],
+    "autor": ["Harry Styles"],
+    "genero": ["Pop"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1003"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Tones and I"],
+    "genero": ["Alternative"],
+    "publicacion": ["8 enero 2021"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1004"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["6 septiembre 2012"],
+    "album": ["Can't Stop the Feeling!"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1005"],
+    "documento_tipo": [3],
+    "nombre": ["Old Town Road"],
+    "autor": ["Travis Scott"],
+    "genero": ["Funk"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1006"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["The Chainsmokers"],
+    "genero": ["Alternative"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1007"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1008"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["The Chainsmokers"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["6 mayo 2016"],
+    "album": ["Divinely Uninspired to a Hellish Extent"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1009"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["The Weeknd"],
+    "genero": ["Funk"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["Can't Stop the Feeling!"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1010"],
+    "documento_tipo": [3],
+    "nombre": ["Happy"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["6 enero 2017"],
+    "album": ["7"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1011"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1012"],
+    "documento_tipo": [3],
+    "nombre": ["bad guy"],
+    "autor": ["Tones and I"],
+    "genero": ["Pop"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["Fine Line"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1013"],
+    "documento_tipo": [3],
+    "nombre": ["drivers license"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["Fine Line"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1014"],
+    "documento_tipo": [3],
+    "nombre": ["drivers license"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["Pop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1015"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Travis Scott"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["10 mayo 2019"],
+    "album": ["Vida"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1016"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["The Weeknd"],
+    "genero": ["Pop"],
+    "publicacion": ["6 septiembre 2012"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1017"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["The Weeknd"],
+    "genero": ["Pop"],
+    "publicacion": ["6 mayo 2016"],
+    "album": ["G I R L"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1018"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Alternative"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["Divinely Uninspired to a Hellish Extent"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1019"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Lil Nas X"],
+    "genero": ["Pop"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["G I R L"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1020"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Tones and I"],
+    "genero": ["R&B"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["Fine Line"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1021"],
+    "documento_tipo": [3],
+    "nombre": ["blinding lights"],
+    "autor": ["Jawsh 685"],
+    "genero": ["Alternative"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1022"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Travis Scott"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["The Kids Are Coming"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1023"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Pop"],
+    "publicacion": ["27 septiembre 2018"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1024"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["The Weeknd"],
+    "genero": ["Pop"],
+    "publicacion": ["6 mayo 2016"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1025"],
+    "documento_tipo": [3],
+    "nombre": ["Savage Love"],
+    "autor": ["Lewis Capaldi"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1026"],
+    "documento_tipo": [3],
+    "nombre": ["Savage Love"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Funk"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["Can't Stop the Feeling!"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1027"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["6 enero 2017"],
+    "album": ["Hollywood's Bleeding"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1028"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Jawsh 685"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["21"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1029"],
+    "documento_tipo": [3],
+    "nombre": ["willow"],
+    "autor": ["Post Malone"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["13 enero 2017"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1030"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["27 septiembre 2018"],
+    "album": ["Divinely Uninspired to a Hellish Extent"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1031"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["R&B"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["Vida"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1032"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Jawsh 685"],
+    "genero": ["Pop"],
+    "publicacion": ["10 noviembre 2014"],
+    "album": ["7"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1033"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Lady Gaga"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["6 septiembre 2012"],
+    "album": ["Fine Line"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1034"],
+    "documento_tipo": [3],
+    "nombre": ["Uptown Funk"],
+    "autor": ["The Chainsmokers"],
+    "genero": ["Pop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1035"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Pop"],
+    "publicacion": ["13 enero 2017"],
+    "album": ["Vida"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1036"],
+    "documento_tipo": [3],
+    "nombre": ["bad guy"],
+    "autor": ["Adele"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["21"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1037"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["27 septiembre 2018"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1038"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Lady Gaga"],
+    "genero": ["Indie Folk"],
+    "publicacion": ["10 mayo 2019"],
+    "album": ["WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1039"],
+    "documento_tipo": [3],
+    "nombre": ["Despacito"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Pop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["G I R L"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1040"],
+    "documento_tipo": [3],
+    "nombre": ["drivers license"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Pop"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1041"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Luis Fonsi"],
+    "genero": ["Alternative"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["G I R L"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1042"],
+    "documento_tipo": [3],
+    "nombre": ["drivers license"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1043"],
+    "documento_tipo": [3],
+    "nombre": ["Someone You Loved"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["Pop"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["Hollywood's Bleeding"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1044"],
+    "documento_tipo": [3],
+    "nombre": ["Rockstar"],
+    "autor": ["Travis Scott"],
+    "genero": ["Pop"],
+    "publicacion": ["8 enero 2021"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1045"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Harry Styles"],
+    "genero": ["Funk"],
+    "publicacion": ["8 enero 2021"],
+    "album": ["WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1046"],
+    "documento_tipo": [3],
+    "nombre": ["Uptown Funk"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Pop"],
+    "publicacion": ["10 noviembre 2014"],
+    "album": ["The Kids Are Coming"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1047"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["Travis Scott"],
+    "genero": ["Pop"],
+    "publicacion": ["10 noviembre 2014"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1048"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Pop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1049"],
+    "documento_tipo": [3],
+    "nombre": ["Despacito"],
+    "autor": ["Lil Nas X"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1050"],
+    "documento_tipo": [3],
+    "nombre": ["Happy"],
+    "autor": ["Tones and I"],
+    "genero": ["Pop"],
+    "publicacion": ["11 junio 2020"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1051"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Billie Eilish"],
+    "genero": ["Pop"],
+    "publicacion": ["6 enero 2017"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1052"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Post Malone"],
+    "genero": ["Pop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["Divinely Uninspired to a Hellish Extent"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1053"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["Jawsh 685"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["6 enero 2017"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1054"],
+    "documento_tipo": [3],
+    "nombre": ["Old Town Road"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Pop"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["Vida"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1055"],
+    "documento_tipo": [3],
+    "nombre": ["Uptown Funk"],
+    "autor": ["Travis Scott"],
+    "genero": ["Pop"],
+    "publicacion": ["10 mayo 2019"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1056"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Jawsh 685"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["Divinely Uninspired to a Hellish Extent"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1057"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Lady Gaga"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["21"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1058"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Lil Nas X"],
+    "genero": ["Pop"],
+    "publicacion": ["6 mayo 2016"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1059"],
+    "documento_tipo": [3],
+    "nombre": ["Despacito"],
+    "autor": ["Harry Styles"],
+    "genero": ["Electronic"],
+    "publicacion": ["11 junio 2020"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1060"],
+    "documento_tipo": [3],
+    "nombre": ["Old Town Road"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Reggaeton"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1061"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Billie Eilish"],
+    "genero": ["Pop"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1062"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Tones and I"],
+    "genero": ["Pop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1063"],
+    "documento_tipo": [3],
+    "nombre": ["Rockstar"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Funk"],
+    "publicacion": ["13 enero 2017"],
+    "album": ["Divinely Uninspired to a Hellish Extent"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1064"],
+    "documento_tipo": [3],
+    "nombre": ["drivers license"],
+    "autor": ["Lady Gaga"],
+    "genero": ["Reggaeton"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1065"],
+    "documento_tipo": [3],
+    "nombre": ["bad guy"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["Hollywood's Bleeding"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1066"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Tones and I"],
+    "genero": ["Electronic"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1067"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["Tones and I"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["Uptown Special"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1068"],
+    "documento_tipo": [3],
+    "nombre": ["drivers license"],
+    "autor": ["Tones and I"],
+    "genero": ["Pop"],
+    "publicacion": ["11 junio 2020"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1069"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Post Malone"],
+    "genero": ["Reggaeton"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["The Kids Are Coming"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1070"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["The Weeknd"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["21"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1071"],
+    "documento_tipo": [3],
+    "nombre": ["Savage Love"],
+    "autor": ["Post Malone"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["6 septiembre 2012"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1072"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Luis Fonsi"],
+    "genero": ["Pop"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1073"],
+    "documento_tipo": [3],
+    "nombre": ["Despacito"],
+    "autor": ["Harry Styles"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1074"],
+    "documento_tipo": [3],
+    "nombre": ["Savage Love"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["Pop"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["7"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1075"],
+    "documento_tipo": [3],
+    "nombre": ["Despacito"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["10 mayo 2019"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1076"],
+    "documento_tipo": [3],
+    "nombre": ["bad guy"],
+    "autor": ["The Weeknd"],
+    "genero": ["Pop"],
+    "publicacion": ["27 septiembre 2018"],
+    "album": ["Fine Line"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1077"],
+    "documento_tipo": [3],
+    "nombre": ["Old Town Road"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["Pop"],
+    "publicacion": ["10 mayo 2019"],
+    "album": ["21"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1078"],
+    "documento_tipo": [3],
+    "nombre": ["bad guy"],
+    "autor": ["Taylor Swift"],
+    "genero": ["R&B"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1079"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Post Malone"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["Can't Stop the Feeling!"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1080"],
+    "documento_tipo": [3],
+    "nombre": ["Someone You Loved"],
+    "autor": ["Billie Eilish"],
+    "genero": ["Alternative"],
+    "publicacion": ["6 mayo 2016"],
+    "album": ["WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1081"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Pop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["Fine Line"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1082"],
+    "documento_tipo": [3],
+    "nombre": ["Uptown Funk"],
+    "autor": ["Adele"],
+    "genero": ["Electronic"],
+    "publicacion": ["11 junio 2020"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1083"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Jawsh 685"],
+    "genero": ["Pop"],
+    "publicacion": ["6 enero 2017"],
+    "album": ["7"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1084"],
+    "documento_tipo": [3],
+    "nombre": ["Uptown Funk"],
+    "autor": ["Lewis Capaldi"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["27 septiembre 2018"],
+    "album": ["7"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1085"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Pop"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1086"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Alternative"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1087"],
+    "documento_tipo": [3],
+    "nombre": ["drivers license"],
+    "autor": ["The Weeknd"],
+    "genero": ["Pop"],
+    "publicacion": ["11 junio 2020"],
+    "album": ["The Kids Are Coming"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1088"],
+    "documento_tipo": [3],
+    "nombre": ["Despacito"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Indie Folk"],
+    "publicacion": ["27 septiembre 2018"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1089"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Pop"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["Hollywood's Bleeding"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1090"],
+    "documento_tipo": [3],
+    "nombre": ["bad guy"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Pop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["Can't Stop the Feeling!"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1091"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Pop"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["Can't Stop the Feeling!"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1092"],
+    "documento_tipo": [3],
+    "nombre": ["Old Town Road"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Pop"],
+    "publicacion": ["8 enero 2021"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1093"],
+    "documento_tipo": [3],
+    "nombre": ["Despacito"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Pop"],
+    "publicacion": ["6 enero 2017"],
+    "album": ["WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1094"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Indie Folk"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["Vida"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1095"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Jawsh 685"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1096"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["Adele"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1097"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Lewis Capaldi"],
+    "genero": ["Indie Folk"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["Uptown Special"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1098"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Lewis Capaldi"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["Uptown Special"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1099"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["Luis Fonsi"],
+    "genero": ["Pop"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["Divinely Uninspired to a Hellish Extent"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1100"],
+    "documento_tipo": [3],
+    "nombre": ["blinding lights"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Reggaeton"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["7"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1101"],
+    "documento_tipo": [3],
+    "nombre": ["Someone You Loved"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Pop"],
+    "publicacion": ["6 mayo 2016"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1102"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Lil Nas X"],
+    "genero": ["Pop"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1103"],
+    "documento_tipo": [3],
+    "nombre": ["Uptown Funk"],
+    "autor": ["Lady Gaga"],
+    "genero": ["Pop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["Uptown Special"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1104"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Lil Nas X"],
+    "genero": ["Pop"],
+    "publicacion": ["8 enero 2021"],
+    "album": ["WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1105"],
+    "documento_tipo": [3],
+    "nombre": ["bad guy"],
+    "autor": ["Lil Nas X"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["Vida"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1106"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Pop"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["Uptown Special"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1107"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["Pop"],
+    "publicacion": ["6 mayo 2016"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1108"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Billie Eilish"],
+    "genero": ["Pop"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1109"],
+    "documento_tipo": [3],
+    "nombre": ["drivers license"],
+    "autor": ["The Chainsmokers"],
+    "genero": ["Pop"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["G I R L"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1110"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Indie Folk"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1111"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Reggaeton"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1112"],
+    "documento_tipo": [3],
+    "nombre": ["Happy"],
+    "autor": ["The Weeknd"],
+    "genero": ["Electronic"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["Uptown Special"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1113"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Billie Eilish"],
+    "genero": ["Electronic"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1114"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Pop"],
+    "publicacion": ["13 enero 2017"],
+    "album": ["The Kids Are Coming"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1115"],
+    "documento_tipo": [3],
+    "nombre": ["Happy"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Pop"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1116"],
+    "documento_tipo": [3],
+    "nombre": ["Despacito"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Reggaeton"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1117"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["Travis Scott"],
+    "genero": ["Pop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["Divinely Uninspired to a Hellish Extent"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1118"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["The Weeknd"],
+    "genero": ["Pop"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["The Kids Are Coming"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1119"],
+    "documento_tipo": [3],
+    "nombre": ["blinding lights"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1120"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Harry Styles"],
+    "genero": ["Pop"],
+    "publicacion": ["8 enero 2021"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1121"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Billie Eilish"],
+    "genero": ["Alternative"],
+    "publicacion": ["6 mayo 2016"],
+    "album": ["Vida"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1122"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Billie Eilish"],
+    "genero": ["Pop"],
+    "publicacion": ["10 mayo 2019"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1123"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Lil Nas X"],
+    "genero": ["Pop"],
+    "publicacion": ["10 noviembre 2014"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1124"],
+    "documento_tipo": [3],
+    "nombre": ["drivers license"],
+    "autor": ["Harry Styles"],
+    "genero": ["Pop"],
+    "publicacion": ["8 enero 2021"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1125"],
+    "documento_tipo": [3],
+    "nombre": ["Happy"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["Pop"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1126"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Pop"],
+    "publicacion": ["10 mayo 2019"],
+    "album": ["WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1127"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["The Weeknd"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["21"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1128"],
+    "documento_tipo": [3],
+    "nombre": ["bad guy"],
+    "autor": ["Lil Nas X"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["6 enero 2017"],
+    "album": ["7"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1129"],
+    "documento_tipo": [3],
+    "nombre": ["blinding lights"],
+    "autor": ["The Weeknd"],
+    "genero": ["Indie Folk"],
+    "publicacion": ["6 mayo 2016"],
+    "album": ["Vida"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1130"],
+    "documento_tipo": [3],
+    "nombre": ["blinding lights"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Pop"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1131"],
+    "documento_tipo": [3],
+    "nombre": ["willow"],
+    "autor": ["The Chainsmokers"],
+    "genero": ["Pop"],
+    "publicacion": ["6 mayo 2016"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1132"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Travis Scott"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["Fine Line"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1133"],
+    "documento_tipo": [3],
+    "nombre": ["bad guy"],
+    "autor": ["Travis Scott"],
+    "genero": ["Pop"],
+    "publicacion": ["13 enero 2017"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1134"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Pop"],
+    "publicacion": ["10 mayo 2019"],
+    "album": ["7"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1135"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Post Malone"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["21"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1136"],
+    "documento_tipo": [3],
+    "nombre": ["Uptown Funk"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Alternative"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["Uptown Special"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1137"],
+    "documento_tipo": [3],
+    "nombre": ["willow"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Pop"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1138"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Pop"],
+    "publicacion": ["27 septiembre 2018"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1139"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1140"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Post Malone"],
+    "genero": ["Pop"],
+    "publicacion": ["6 mayo 2016"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1141"],
+    "documento_tipo": [3],
+    "nombre": ["blinding lights"],
+    "autor": ["Post Malone"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1142"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Post Malone"],
+    "genero": ["Indie Folk"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1143"],
+    "documento_tipo": [3],
+    "nombre": ["Savage Love"],
+    "autor": ["The Chainsmokers"],
+    "genero": ["Pop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1144"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Jawsh 685"],
+    "genero": ["Pop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1145"],
+    "documento_tipo": [3],
+    "nombre": ["Savage Love"],
+    "autor": ["Tones and I"],
+    "genero": ["Pop"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1146"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Adele"],
+    "genero": ["Electronic"],
+    "publicacion": ["10 noviembre 2014"],
+    "album": ["Vida"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1147"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Alternative"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1148"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Pop"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["Can't Stop the Feeling!"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1149"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Pop"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1150"],
+    "documento_tipo": [3],
+    "nombre": ["Uptown Funk"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["Pop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1151"],
+    "documento_tipo": [3],
+    "nombre": ["Happy"],
+    "autor": ["Adele"],
+    "genero": ["Pop"],
+    "publicacion": ["28 abril 2020"],
+    "album": ["Fine Line"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1152"],
+    "documento_tipo": [3],
+    "nombre": ["Savage Love"],
+    "autor": ["The Chainsmokers"],
+    "genero": ["Pop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1153"],
+    "documento_tipo": [3],
+    "nombre": ["blinding lights"],
+    "autor": ["Billie Eilish"],
+    "genero": ["Pop"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["Vida"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1154"],
+    "documento_tipo": [3],
+    "nombre": ["willow"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Pop"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1155"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Travis Scott"],
+    "genero": ["Electronic"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1156"],
+    "documento_tipo": [3],
+    "nombre": ["blinding lights"],
+    "autor": ["Post Malone"],
+    "genero": ["R&B"],
+    "publicacion": ["6 mayo 2016"],
+    "album": ["WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1157"],
+    "documento_tipo": [3],
+    "nombre": ["Rockstar"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Reggaeton"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["7"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1158"],
+    "documento_tipo": [3],
+    "nombre": ["Old Town Road"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Reggaeton"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1159"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Pop"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["Can't Stop the Feeling!"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1160"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Pop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["7"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1161"],
+    "documento_tipo": [3],
+    "nombre": ["blinding lights"],
+    "autor": ["Jawsh 685"],
+    "genero": ["Pop"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["Divinely Uninspired to a Hellish Extent"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1162"],
+    "documento_tipo": [3],
+    "nombre": ["willow"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["Fine Line"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1163"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Adele"],
+    "genero": ["Pop"],
+    "publicacion": ["11 junio 2020"],
+    "album": ["7"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1164"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Luis Fonsi"],
+    "genero": ["R&B"],
+    "publicacion": ["11 junio 2020"],
+    "album": ["The Kids Are Coming"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1165"],
+    "documento_tipo": [3],
+    "nombre": ["drivers license"],
+    "autor": ["Luis Fonsi"],
+    "genero": ["R&B"],
+    "publicacion": ["13 enero 2017"],
+    "album": ["Can't Stop the Feeling!"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1166"],
+    "documento_tipo": [3],
+    "nombre": ["Happy"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["Electronic"],
+    "publicacion": ["11 junio 2020"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1167"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Luis Fonsi"],
+    "genero": ["Pop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1168"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Tones and I"],
+    "genero": ["Funk"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1169"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Electronic"],
+    "publicacion": ["10 noviembre 2014"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1170"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Pop"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["Divinely Uninspired to a Hellish Extent"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1171"],
+    "documento_tipo": [3],
+    "nombre": ["willow"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["8 enero 2021"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1172"],
+    "documento_tipo": [3],
+    "nombre": ["Despacito"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["11 junio 2020"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1173"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Tones and I"],
+    "genero": ["Indie Folk"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1174"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Lil Nas X"],
+    "genero": ["Pop"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["21"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1175"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["Lil Nas X"],
+    "genero": ["Pop"],
+    "publicacion": ["6 septiembre 2012"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1176"],
+    "documento_tipo": [3],
+    "nombre": ["Despacito"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Pop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1177"],
+    "documento_tipo": [3],
+    "nombre": ["Savage Love"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Pop"],
+    "publicacion": ["6 septiembre 2012"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1178"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Electronic"],
+    "publicacion": ["8 enero 2021"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1179"],
+    "documento_tipo": [3],
+    "nombre": ["Old Town Road"],
+    "autor": ["Lady Gaga"],
+    "genero": ["Pop"],
+    "publicacion": ["6 enero 2017"],
+    "album": ["The Kids Are Coming"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1180"],
+    "documento_tipo": [3],
+    "nombre": ["bad guy"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["Pop"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1181"],
+    "documento_tipo": [3],
+    "nombre": ["Savage Love"],
+    "autor": ["Lady Gaga"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["6 septiembre 2012"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1182"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Tones and I"],
+    "genero": ["Alternative"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1183"],
+    "documento_tipo": [3],
+    "nombre": ["Old Town Road"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Pop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["Fine Line"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1184"],
+    "documento_tipo": [3],
+    "nombre": ["blinding lights"],
+    "autor": ["Adele"],
+    "genero": ["Pop"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["Can't Stop the Feeling!"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1185"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Billie Eilish"],
+    "genero": ["Pop"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1186"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Tones and I"],
+    "genero": ["Pop"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1187"],
+    "documento_tipo": [3],
+    "nombre": ["Despacito"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["28 abril 2020"],
+    "album": ["Divinely Uninspired to a Hellish Extent"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1188"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Lewis Capaldi"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["6 enero 2017"],
+    "album": ["Hollywood's Bleeding"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1189"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Pop"],
+    "publicacion": ["13 enero 2017"],
+    "album": ["The Kids Are Coming"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1190"],
+    "documento_tipo": [3],
+    "nombre": ["bad guy"],
+    "autor": ["Luis Fonsi"],
+    "genero": ["Indie Folk"],
+    "publicacion": ["6 enero 2017"],
+    "album": ["G I R L"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1191"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Harry Styles"],
+    "genero": ["Pop"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1192"],
+    "documento_tipo": [3],
+    "nombre": ["drivers license"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Alternative"],
+    "publicacion": ["10 mayo 2019"],
+    "album": ["7"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1193"],
+    "documento_tipo": [3],
+    "nombre": ["Happy"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Reggaeton"],
+    "publicacion": ["10 mayo 2019"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1194"],
+    "documento_tipo": [3],
+    "nombre": ["Rockstar"],
+    "autor": ["Adele"],
+    "genero": ["Pop"],
+    "publicacion": ["10 noviembre 2014"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1195"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Pop"],
+    "publicacion": ["6 septiembre 2012"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1196"],
+    "documento_tipo": [3],
+    "nombre": ["Happy"],
+    "autor": ["Tones and I"],
+    "genero": ["Alternative"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1197"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Travis Scott"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1198"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Lewis Capaldi"],
+    "genero": ["Reggaeton"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["7"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1199"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Lady Gaga"],
+    "genero": ["Pop"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["The Kids Are Coming"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1200"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1201"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Harry Styles"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1202"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Post Malone"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["Divinely Uninspired to a Hellish Extent"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1203"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Billie Eilish"],
+    "genero": ["Pop"],
+    "publicacion": ["11 junio 2020"],
+    "album": ["G I R L"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1204"],
+    "documento_tipo": [3],
+    "nombre": ["Despacito"],
+    "autor": ["The Weeknd"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["6 septiembre 2012"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1205"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Post Malone"],
+    "genero": ["R&B"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1206"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Post Malone"],
+    "genero": ["Pop"],
+    "publicacion": ["11 junio 2020"],
+    "album": ["The Kids Are Coming"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1207"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Pop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["The Kids Are Coming"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1208"],
+    "documento_tipo": [3],
+    "nombre": ["Rockstar"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["10 mayo 2019"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1209"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Billie Eilish"],
+    "genero": ["Reggaeton"],
+    "publicacion": ["27 septiembre 2018"],
+    "album": ["The Kids Are Coming"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1210"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Indie Folk"],
+    "publicacion": ["6 septiembre 2012"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1211"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Electronic"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1212"],
+    "documento_tipo": [3],
+    "nombre": ["Rockstar"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1213"],
+    "documento_tipo": [3],
+    "nombre": ["Rockstar"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Pop"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1214"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Pop"],
+    "publicacion": ["6 enero 2017"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1215"],
+    "documento_tipo": [3],
+    "nombre": ["drivers license"],
+    "autor": ["Post Malone"],
+    "genero": ["Funk"],
+    "publicacion": ["13 enero 2017"],
+    "album": ["Hollywood's Bleeding"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1216"],
+    "documento_tipo": [3],
+    "nombre": ["Savage Love"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["Pop"],
+    "publicacion": ["11 junio 2020"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1217"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["The Weeknd"],
+    "genero": ["Pop"],
+    "publicacion": ["10 mayo 2019"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1218"],
+    "documento_tipo": [3],
+    "nombre": ["bad guy"],
+    "autor": ["Lady Gaga"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["27 septiembre 2018"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1219"],
+    "documento_tipo": [3],
+    "nombre": ["Uptown Funk"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["R&B"],
+    "publicacion": ["27 septiembre 2018"],
+    "album": ["Uptown Special"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1220"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Electronic"],
+    "publicacion": ["10 noviembre 2014"],
+    "album": ["7"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1221"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Electronic"],
+    "publicacion": ["6 enero 2017"],
+    "album": ["WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1222"],
+    "documento_tipo": [3],
+    "nombre": ["Despacito"],
+    "autor": ["The Chainsmokers"],
+    "genero": ["Pop"],
+    "publicacion": ["8 enero 2021"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1223"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Harry Styles"],
+    "genero": ["Reggaeton"],
+    "publicacion": ["28 abril 2020"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1224"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["Hollywood's Bleeding"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1225"],
+    "documento_tipo": [3],
+    "nombre": ["Someone You Loved"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Funk"],
+    "publicacion": ["13 enero 2017"],
+    "album": ["Divinely Uninspired to a Hellish Extent"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1226"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Pop"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["Fine Line"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1227"],
+    "documento_tipo": [3],
+    "nombre": ["blinding lights"],
+    "autor": ["Post Malone"],
+    "genero": ["Pop"],
+    "publicacion": ["13 enero 2017"],
+    "album": ["Uptown Special"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1228"],
+    "documento_tipo": [3],
+    "nombre": ["Savage Love"],
+    "autor": ["The Chainsmokers"],
+    "genero": ["Pop"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["Divinely Uninspired to a Hellish Extent"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1229"],
+    "documento_tipo": [3],
+    "nombre": ["Savage Love"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Alternative"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["Vida"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1230"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Luis Fonsi"],
+    "genero": ["Pop"],
+    "publicacion": ["6 septiembre 2012"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1231"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Jawsh 685"],
+    "genero": ["Pop"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1232"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Adele"],
+    "genero": ["Pop"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1233"],
+    "documento_tipo": [3],
+    "nombre": ["drivers license"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Reggaeton"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1234"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Travis Scott"],
+    "genero": ["Alternative"],
+    "publicacion": ["10 noviembre 2014"],
+    "album": ["Divinely Uninspired to a Hellish Extent"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1235"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["Reggaeton"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1236"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Travis Scott"],
+    "genero": ["Indie Folk"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["Fine Line"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1237"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Post Malone"],
+    "genero": ["Alternative"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1238"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Billie Eilish"],
+    "genero": ["Funk"],
+    "publicacion": ["11 junio 2020"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1239"],
+    "documento_tipo": [3],
+    "nombre": ["Rockstar"],
+    "autor": ["Post Malone"],
+    "genero": ["Pop"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1240"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Pop"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["The Kids Are Coming"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1241"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Adele"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["Uptown Special"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1242"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Tones and I"],
+    "genero": ["Pop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["Uptown Special"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1243"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1244"],
+    "documento_tipo": [3],
+    "nombre": ["Old Town Road"],
+    "autor": ["The Weeknd"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["6 septiembre 2012"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1245"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Luis Fonsi"],
+    "genero": ["Pop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1246"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Harry Styles"],
+    "genero": ["R&B"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1247"],
+    "documento_tipo": [3],
+    "nombre": ["Savage Love"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Pop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1248"],
+    "documento_tipo": [3],
+    "nombre": ["Rockstar"],
+    "autor": ["Harry Styles"],
+    "genero": ["Electronic"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["Fine Line"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1249"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Pop"],
+    "publicacion": ["6 mayo 2016"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1250"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Lewis Capaldi"],
+    "genero": ["Alternative"],
+    "publicacion": ["10 noviembre 2014"],
+    "album": ["WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1251"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["The Chainsmokers"],
+    "genero": ["Indie Folk"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["The Kids Are Coming"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1252"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Harry Styles"],
+    "genero": ["Alternative"],
+    "publicacion": ["6 septiembre 2012"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1253"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Harry Styles"],
+    "genero": ["Pop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1254"],
+    "documento_tipo": [3],
+    "nombre": ["blinding lights"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Pop"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["Hollywood's Bleeding"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1255"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["Electronic"],
+    "publicacion": ["13 enero 2017"],
+    "album": ["WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1256"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["The Weeknd"],
+    "genero": ["Pop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["Hollywood's Bleeding"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1257"],
+    "documento_tipo": [3],
+    "nombre": ["Rockstar"],
+    "autor": ["Jawsh 685"],
+    "genero": ["Pop"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1258"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["The Chainsmokers"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["21"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1259"],
+    "documento_tipo": [3],
+    "nombre": ["Rockstar"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Pop"],
+    "publicacion": ["6 septiembre 2012"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1260"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Electronic"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["Divinely Uninspired to a Hellish Extent"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1261"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Harry Styles"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["6 septiembre 2012"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1262"],
+    "documento_tipo": [3],
+    "nombre": ["Savage Love"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Pop"],
+    "publicacion": ["6 mayo 2016"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1263"],
+    "documento_tipo": [3],
+    "nombre": ["bad guy"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Pop"],
+    "publicacion": ["6 mayo 2016"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1264"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Pop"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1265"],
+    "documento_tipo": [3],
+    "nombre": ["Savage Love"],
+    "autor": ["Jawsh 685"],
+    "genero": ["Pop"],
+    "publicacion": ["6 enero 2017"],
+    "album": ["21"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1266"],
+    "documento_tipo": [3],
+    "nombre": ["Uptown Funk"],
+    "autor": ["Taylor Swift"],
+    "genero": ["R&B"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["Fine Line"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1267"],
+    "documento_tipo": [3],
+    "nombre": ["drivers license"],
+    "autor": ["The Chainsmokers"],
+    "genero": ["Reggaeton"],
+    "publicacion": ["10 noviembre 2014"],
+    "album": ["G I R L"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1268"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Funk"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["Hollywood's Bleeding"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1269"],
+    "documento_tipo": [3],
+    "nombre": ["Rockstar"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Pop"],
+    "publicacion": ["6 septiembre 2012"],
+    "album": ["Can't Stop the Feeling!"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1270"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Lil Nas X"],
+    "genero": ["Funk"],
+    "publicacion": ["27 septiembre 2018"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1271"],
+    "documento_tipo": [3],
+    "nombre": ["Happy"],
+    "autor": ["Lewis Capaldi"],
+    "genero": ["Pop"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["Uptown Special"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1272"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Jawsh 685"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1273"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["R&B"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1274"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["10 mayo 2019"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1275"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Pop"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1276"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Lil Nas X"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1277"],
+    "documento_tipo": [3],
+    "nombre": ["Rockstar"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Electronic"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1278"],
+    "documento_tipo": [3],
+    "nombre": ["drivers license"],
+    "autor": ["Harry Styles"],
+    "genero": ["Pop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["Can't Stop the Feeling!"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1279"],
+    "documento_tipo": [3],
+    "nombre": ["Uptown Funk"],
+    "autor": ["Travis Scott"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1280"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Lewis Capaldi"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1281"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Pop"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1282"],
+    "documento_tipo": [3],
+    "nombre": ["Despacito"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Indie Folk"],
+    "publicacion": ["10 noviembre 2014"],
+    "album": ["Can't Stop the Feeling!"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1283"],
+    "documento_tipo": [3],
+    "nombre": ["Savage Love"],
+    "autor": ["Harry Styles"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["10 mayo 2019"],
+    "album": ["The Kids Are Coming"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1284"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["6 enero 2017"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1285"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Pop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["G I R L"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1286"],
+    "documento_tipo": [3],
+    "nombre": ["Uptown Funk"],
+    "autor": ["The Chainsmokers"],
+    "genero": ["Pop"],
+    "publicacion": ["28 abril 2020"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1287"],
+    "documento_tipo": [3],
+    "nombre": ["Uptown Funk"],
+    "autor": ["The Chainsmokers"],
+    "genero": ["Pop"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1288"],
+    "documento_tipo": [3],
+    "nombre": ["blinding lights"],
+    "autor": ["Lewis Capaldi"],
+    "genero": ["Pop"],
+    "publicacion": ["8 enero 2021"],
+    "album": ["Can't Stop the Feeling!"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1289"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["The Chainsmokers"],
+    "genero": ["Pop"],
+    "publicacion": ["6 septiembre 2012"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1290"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["The Weeknd"],
+    "genero": ["Funk"],
+    "publicacion": ["28 abril 2020"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1291"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Adele"],
+    "genero": ["Indie Folk"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1292"],
+    "documento_tipo": [3],
+    "nombre": ["Uptown Funk"],
+    "autor": ["Jawsh 685"],
+    "genero": ["Pop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["21"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1293"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Adele"],
+    "genero": ["Alternative"],
+    "publicacion": ["8 enero 2021"],
+    "album": ["The Kids Are Coming"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1294"],
+    "documento_tipo": [3],
+    "nombre": ["willow"],
+    "autor": ["Lady Gaga"],
+    "genero": ["Reggaeton"],
+    "publicacion": ["6 mayo 2016"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1295"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Reggaeton"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["Hollywood's Bleeding"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1296"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["The Weeknd"],
+    "genero": ["Pop"],
+    "publicacion": ["11 junio 2020"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1297"],
+    "documento_tipo": [3],
+    "nombre": ["Old Town Road"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Pop"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1298"],
+    "documento_tipo": [3],
+    "nombre": ["Old Town Road"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["Pop"],
+    "publicacion": ["6 enero 2017"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1299"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["The Weeknd"],
+    "genero": ["Pop"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1300"],
+    "documento_tipo": [3],
+    "nombre": ["Uptown Funk"],
+    "autor": ["Jawsh 685"],
+    "genero": ["Pop"],
+    "publicacion": ["13 enero 2017"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1301"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1302"],
+    "documento_tipo": [3],
+    "nombre": ["Savage Love"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Pop"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["Can't Stop the Feeling!"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1303"],
+    "documento_tipo": [3],
+    "nombre": ["bad guy"],
+    "autor": ["Lewis Capaldi"],
+    "genero": ["Pop"],
+    "publicacion": ["6 septiembre 2012"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1304"],
+    "documento_tipo": [3],
+    "nombre": ["Someone You Loved"],
+    "autor": ["Travis Scott"],
+    "genero": ["Alternative"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["Can't Stop the Feeling!"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1305"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Lewis Capaldi"],
+    "genero": ["Funk"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["The Kids Are Coming"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1306"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Alternative"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1307"],
+    "documento_tipo": [3],
+    "nombre": ["bad guy"],
+    "autor": ["Lil Nas X"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["Fine Line"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1308"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Pop"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1309"],
+    "documento_tipo": [3],
+    "nombre": ["willow"],
+    "autor": ["Tones and I"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["28 abril 2020"],
+    "album": ["WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1310"],
+    "documento_tipo": [3],
+    "nombre": ["Savage Love"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Pop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["Uptown Special"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1311"],
+    "documento_tipo": [3],
+    "nombre": ["Happy"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1312"],
+    "documento_tipo": [3],
+    "nombre": ["blinding lights"],
+    "autor": ["The Weeknd"],
+    "genero": ["Pop"],
+    "publicacion": ["10 mayo 2019"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1313"],
+    "documento_tipo": [3],
+    "nombre": ["Despacito"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Pop"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1314"],
+    "documento_tipo": [3],
+    "nombre": ["bad guy"],
+    "autor": ["Luis Fonsi"],
+    "genero": ["Pop"],
+    "publicacion": ["27 septiembre 2018"],
+    "album": ["Divinely Uninspired to a Hellish Extent"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1315"],
+    "documento_tipo": [3],
+    "nombre": ["Happy"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Pop"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1316"],
+    "documento_tipo": [3],
+    "nombre": ["Happy"],
+    "autor": ["Travis Scott"],
+    "genero": ["Pop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1317"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["6 mayo 2016"],
+    "album": ["Uptown Special"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1318"],
+    "documento_tipo": [3],
+    "nombre": ["Old Town Road"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Pop"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["Fine Line"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1319"],
+    "documento_tipo": [3],
+    "nombre": ["Someone You Loved"],
+    "autor": ["Taylor Swift"],
+    "genero": ["R&B"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1320"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Lady Gaga"],
+    "genero": ["Pop"],
+    "publicacion": ["27 septiembre 2018"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1321"],
+    "documento_tipo": [3],
+    "nombre": ["willow"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Pop"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1322"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["Tones and I"],
+    "genero": ["Indie Folk"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["Hollywood's Bleeding"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1323"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Pop"],
+    "publicacion": ["28 abril 2020"],
+    "album": ["G I R L"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1324"],
+    "documento_tipo": [3],
+    "nombre": ["bad guy"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Pop"],
+    "publicacion": ["10 mayo 2019"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1325"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Lil Nas X"],
+    "genero": ["Electronic"],
+    "publicacion": ["8 enero 2021"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1326"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Pop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1327"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["The Weeknd"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["Can't Stop the Feeling!"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1328"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Tones and I"],
+    "genero": ["R&B"],
+    "publicacion": ["6 enero 2017"],
+    "album": ["G I R L"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1329"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Post Malone"],
+    "genero": ["Pop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1330"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Reggaeton"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["Uptown Special"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1331"],
+    "documento_tipo": [3],
+    "nombre": ["willow"],
+    "autor": ["The Chainsmokers"],
+    "genero": ["Alternative"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["Uptown Special"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1332"],
+    "documento_tipo": [3],
+    "nombre": ["blinding lights"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["G I R L"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1333"],
+    "documento_tipo": [3],
+    "nombre": ["Happy"],
+    "autor": ["Jawsh 685"],
+    "genero": ["Pop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["Vida"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1334"],
+    "documento_tipo": [3],
+    "nombre": ["Savage Love"],
+    "autor": ["Lady Gaga"],
+    "genero": ["Pop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["7"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1335"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Adele"],
+    "genero": ["Pop"],
+    "publicacion": ["10 noviembre 2014"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1336"],
+    "documento_tipo": [3],
+    "nombre": ["Uptown Funk"],
+    "autor": ["Tones and I"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["G I R L"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1337"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["The Weeknd"],
+    "genero": ["Reggaeton"],
+    "publicacion": ["11 junio 2020"],
+    "album": ["7"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1338"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Jawsh 685"],
+    "genero": ["Pop"],
+    "publicacion": ["8 enero 2021"],
+    "album": ["G I R L"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1339"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Pop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1340"],
+    "documento_tipo": [3],
+    "nombre": ["willow"],
+    "autor": ["Lady Gaga"],
+    "genero": ["Indie Folk"],
+    "publicacion": ["6 mayo 2016"],
+    "album": ["Uptown Special"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1341"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Travis Scott"],
+    "genero": ["Alternative"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1342"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["The Chainsmokers"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["28 abril 2020"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1343"],
+    "documento_tipo": [3],
+    "nombre": ["Someone You Loved"],
+    "autor": ["Harry Styles"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1344"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["Pop"],
+    "publicacion": ["10 mayo 2019"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1345"],
+    "documento_tipo": [3],
+    "nombre": ["Rockstar"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Pop"],
+    "publicacion": ["6 septiembre 2012"],
+    "album": ["Divinely Uninspired to a Hellish Extent"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1346"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Pop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1347"],
+    "documento_tipo": [3],
+    "nombre": ["Savage Love"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Indie Folk"],
+    "publicacion": ["11 junio 2020"],
+    "album": ["21"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1348"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Alternative"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1349"],
+    "documento_tipo": [3],
+    "nombre": ["Happy"],
+    "autor": ["Travis Scott"],
+    "genero": ["Pop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1350"],
+    "documento_tipo": [3],
+    "nombre": ["Old Town Road"],
+    "autor": ["Lady Gaga"],
+    "genero": ["Reggaeton"],
+    "publicacion": ["6 septiembre 2012"],
+    "album": ["WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1351"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Lewis Capaldi"],
+    "genero": ["Electronic"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1352"],
+    "documento_tipo": [3],
+    "nombre": ["Uptown Funk"],
+    "autor": ["Post Malone"],
+    "genero": ["Pop"],
+    "publicacion": ["10 noviembre 2014"],
+    "album": ["Hollywood's Bleeding"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1353"],
+    "documento_tipo": [3],
+    "nombre": ["Uptown Funk"],
+    "autor": ["The Weeknd"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["11 junio 2020"],
+    "album": ["Hollywood's Bleeding"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1354"],
+    "documento_tipo": [3],
+    "nombre": ["Happy"],
+    "autor": ["Lil Nas X"],
+    "genero": ["Pop"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1355"],
+    "documento_tipo": [3],
+    "nombre": ["blinding lights"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Funk"],
+    "publicacion": ["6 enero 2017"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1356"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Lady Gaga"],
+    "genero": ["Alternative"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1357"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Tones and I"],
+    "genero": ["Pop"],
+    "publicacion": ["10 noviembre 2014"],
+    "album": ["G I R L"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1358"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Tones and I"],
+    "genero": ["Pop"],
+    "publicacion": ["6 mayo 2016"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1359"],
+    "documento_tipo": [3],
+    "nombre": ["bad guy"],
+    "autor": ["Lady Gaga"],
+    "genero": ["Pop"],
+    "publicacion": ["13 enero 2017"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1360"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["Travis Scott"],
+    "genero": ["Pop"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1361"],
+    "documento_tipo": [3],
+    "nombre": ["bad guy"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Pop"],
+    "publicacion": ["13 enero 2017"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1362"],
+    "documento_tipo": [3],
+    "nombre": ["Happy"],
+    "autor": ["Lewis Capaldi"],
+    "genero": ["Reggaeton"],
+    "publicacion": ["10 mayo 2019"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1363"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Lewis Capaldi"],
+    "genero": ["Pop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1364"],
+    "documento_tipo": [3],
+    "nombre": ["Happy"],
+    "autor": ["Tones and I"],
+    "genero": ["R&B"],
+    "publicacion": ["6 enero 2017"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1365"],
+    "documento_tipo": [3],
+    "nombre": ["drivers license"],
+    "autor": ["Post Malone"],
+    "genero": ["Pop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1366"],
+    "documento_tipo": [3],
+    "nombre": ["blinding lights"],
+    "autor": ["The Weeknd"],
+    "genero": ["Indie Folk"],
+    "publicacion": ["10 noviembre 2014"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1367"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Post Malone"],
+    "genero": ["Pop"],
+    "publicacion": ["10 noviembre 2014"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1368"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Pop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["Uptown Special"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1369"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Pop"],
+    "publicacion": ["13 enero 2017"],
+    "album": ["Hollywood's Bleeding"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1370"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Luis Fonsi"],
+    "genero": ["Pop"],
+    "publicacion": ["28 abril 2020"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1371"],
+    "documento_tipo": [3],
+    "nombre": ["blinding lights"],
+    "autor": ["Lil Nas X"],
+    "genero": ["Pop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1372"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Billie Eilish"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1373"],
+    "documento_tipo": [3],
+    "nombre": ["Rockstar"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Pop"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1374"],
+    "documento_tipo": [3],
+    "nombre": ["willow"],
+    "autor": ["Lady Gaga"],
+    "genero": ["Pop"],
+    "publicacion": ["28 abril 2020"],
+    "album": ["Uptown Special"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1375"],
+    "documento_tipo": [3],
+    "nombre": ["Old Town Road"],
+    "autor": ["Billie Eilish"],
+    "genero": ["Pop"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["Uptown Special"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1376"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Lil Nas X"],
+    "genero": ["Pop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1377"],
+    "documento_tipo": [3],
+    "nombre": ["Savage Love"],
+    "autor": ["Adele"],
+    "genero": ["Pop"],
+    "publicacion": ["6 enero 2017"],
+    "album": ["Hollywood's Bleeding"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1378"],
+    "documento_tipo": [3],
+    "nombre": ["Someone You Loved"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Pop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1379"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["G I R L"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1380"],
+    "documento_tipo": [3],
+    "nombre": ["willow"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Electronic"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1381"],
+    "documento_tipo": [3],
+    "nombre": ["Savage Love"],
+    "autor": ["Lil Nas X"],
+    "genero": ["Pop"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1382"],
+    "documento_tipo": [3],
+    "nombre": ["willow"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Pop"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["Fine Line"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1383"],
+    "documento_tipo": [3],
+    "nombre": ["bad guy"],
+    "autor": ["Post Malone"],
+    "genero": ["Pop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["Divinely Uninspired to a Hellish Extent"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1384"],
+    "documento_tipo": [3],
+    "nombre": ["Uptown Funk"],
+    "autor": ["Lewis Capaldi"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["Vida"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1385"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Pop"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1386"],
+    "documento_tipo": [3],
+    "nombre": ["willow"],
+    "autor": ["Lady Gaga"],
+    "genero": ["Pop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["The Kids Are Coming"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1387"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Pop"],
+    "publicacion": ["11 junio 2020"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1388"],
+    "documento_tipo": [3],
+    "nombre": ["Rockstar"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["8 enero 2021"],
+    "album": ["21"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1389"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Jawsh 685"],
+    "genero": ["Pop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1390"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Pop"],
+    "publicacion": ["13 enero 2017"],
+    "album": ["21"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1391"],
+    "documento_tipo": [3],
+    "nombre": ["Despacito"],
+    "autor": ["The Chainsmokers"],
+    "genero": ["Indie Folk"],
+    "publicacion": ["8 enero 2021"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1392"],
+    "documento_tipo": [3],
+    "nombre": ["Rockstar"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Pop"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["Hollywood's Bleeding"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1393"],
+    "documento_tipo": [3],
+    "nombre": ["Someone You Loved"],
+    "autor": ["Luis Fonsi"],
+    "genero": ["Reggaeton"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1394"],
+    "documento_tipo": [3],
+    "nombre": ["willow"],
+    "autor": ["Post Malone"],
+    "genero": ["Pop"],
+    "publicacion": ["8 enero 2021"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1395"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Pop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1396"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Lil Nas X"],
+    "genero": ["Pop"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["The Kids Are Coming"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1397"],
+    "documento_tipo": [3],
+    "nombre": ["Uptown Funk"],
+    "autor": ["The Chainsmokers"],
+    "genero": ["Pop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1398"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["The Weeknd"],
+    "genero": ["Pop"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1399"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Tones and I"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["6 enero 2017"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1400"],
+    "documento_tipo": [3],
+    "nombre": ["Old Town Road"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["8 enero 2021"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1401"],
+    "documento_tipo": [3],
+    "nombre": ["Rockstar"],
+    "autor": ["Post Malone"],
+    "genero": ["Pop"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1402"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Billie Eilish"],
+    "genero": ["Electronic"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1403"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Post Malone"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["Vida"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1404"],
+    "documento_tipo": [3],
+    "nombre": ["Uptown Funk"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Pop"],
+    "publicacion": ["13 enero 2017"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1405"],
+    "documento_tipo": [3],
+    "nombre": ["Despacito"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Funk"],
+    "publicacion": ["10 mayo 2019"],
+    "album": ["Hollywood's Bleeding"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1406"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Luis Fonsi"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1407"],
+    "documento_tipo": [3],
+    "nombre": ["bad guy"],
+    "autor": ["Lil Nas X"],
+    "genero": ["R&B"],
+    "publicacion": ["6 enero 2017"],
+    "album": ["7"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1408"],
+    "documento_tipo": [3],
+    "nombre": ["Old Town Road"],
+    "autor": ["Harry Styles"],
+    "genero": ["Alternative"],
+    "publicacion": ["6 septiembre 2012"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1409"],
+    "documento_tipo": [3],
+    "nombre": ["Uptown Funk"],
+    "autor": ["Travis Scott"],
+    "genero": ["Alternative"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1410"],
+    "documento_tipo": [3],
+    "nombre": ["blinding lights"],
+    "autor": ["Lady Gaga"],
+    "genero": ["Pop"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1411"],
+    "documento_tipo": [3],
+    "nombre": ["blinding lights"],
+    "autor": ["Jawsh 685"],
+    "genero": ["R&B"],
+    "publicacion": ["11 junio 2020"],
+    "album": ["Vida"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1412"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["The Chainsmokers"],
+    "genero": ["Pop"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1413"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Lewis Capaldi"],
+    "genero": ["Indie Folk"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["G I R L"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1414"],
+    "documento_tipo": [3],
+    "nombre": ["Someone You Loved"],
+    "autor": ["The Weeknd"],
+    "genero": ["Pop"],
+    "publicacion": ["28 abril 2020"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1415"],
+    "documento_tipo": [3],
+    "nombre": ["Savage Love"],
+    "autor": ["Billie Eilish"],
+    "genero": ["Alternative"],
+    "publicacion": ["6 enero 2017"],
+    "album": ["Can't Stop the Feeling!"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1416"],
+    "documento_tipo": [3],
+    "nombre": ["Old Town Road"],
+    "autor": ["Mark Ronson"],
+    "genero": ["R&B"],
+    "publicacion": ["11 junio 2020"],
+    "album": ["G I R L"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1417"],
+    "documento_tipo": [3],
+    "nombre": ["drivers license"],
+    "autor": ["Adele"],
+    "genero": ["Indie Folk"],
+    "publicacion": ["11 junio 2020"],
+    "album": ["Vida"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1418"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Adele"],
+    "genero": ["Electronic"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1419"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Travis Scott"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["6 enero 2017"],
+    "album": ["Can't Stop the Feeling!"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1420"],
+    "documento_tipo": [3],
+    "nombre": ["Someone You Loved"],
+    "autor": ["Post Malone"],
+    "genero": ["Pop"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["7"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1421"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Pop"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["SOUR"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1422"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["The Chainsmokers"],
+    "genero": ["Pop"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1423"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Jawsh 685"],
+    "genero": ["Pop"],
+    "publicacion": ["10 mayo 2019"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1424"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Pop"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1425"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Funk"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["Hollywood's Bleeding"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1426"],
+    "documento_tipo": [3],
+    "nombre": ["Old Town Road"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["11 junio 2020"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1427"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Adele"],
+    "genero": ["Electronic"],
+    "publicacion": ["10 mayo 2019"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1428"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["10 noviembre 2014"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1429"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Lady Gaga"],
+    "genero": ["Pop"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1430"],
+    "documento_tipo": [3],
+    "nombre": ["Rockstar"],
+    "autor": ["The Chainsmokers"],
+    "genero": ["Pop"],
+    "publicacion": ["11 junio 2020"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1431"],
+    "documento_tipo": [3],
+    "nombre": ["Someone You Loved"],
+    "autor": ["Lady Gaga"],
+    "genero": ["Electronic"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1432"],
+    "documento_tipo": [3],
+    "nombre": ["blinding lights"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Pop"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1433"],
+    "documento_tipo": [3],
+    "nombre": ["Rockstar"],
+    "autor": ["Taylor Swift"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1434"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["Pop"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["Can't Stop the Feeling!"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1435"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Post Malone"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["Fine Line"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1436"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Lewis Capaldi"],
+    "genero": ["Pop"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1437"],
+    "documento_tipo": [3],
+    "nombre": ["Uptown Funk"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Pop"],
+    "publicacion": ["6 mayo 2016"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1438"],
+    "documento_tipo": [3],
+    "nombre": ["Despacito"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Funk"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1439"],
+    "documento_tipo": [3],
+    "nombre": ["drivers license"],
+    "autor": ["Travis Scott"],
+    "genero": ["Pop"],
+    "publicacion": ["8 enero 2021"],
+    "album": ["Hollywood's Bleeding"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1440"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Pop"],
+    "publicacion": ["6 septiembre 2012"],
+    "album": ["Uptown Special"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1441"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["The Weeknd"],
+    "genero": ["Pop"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["Hollywood's Bleeding"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1442"],
+    "documento_tipo": [3],
+    "nombre": ["Rockstar"],
+    "autor": ["Lewis Capaldi"],
+    "genero": ["Pop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["Fine Line"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1443"],
+    "documento_tipo": [3],
+    "nombre": ["blinding lights"],
+    "autor": ["Tones and I"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["28 abril 2020"],
+    "album": ["Divinely Uninspired to a Hellish Extent"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1444"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Luis Fonsi"],
+    "genero": ["Pop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["G I R L"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1445"],
+    "documento_tipo": [3],
+    "nombre": ["Despacito"],
+    "autor": ["Jawsh 685"],
+    "genero": ["Pop"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1446"],
+    "documento_tipo": [3],
+    "nombre": ["Uptown Funk"],
+    "autor": ["Post Malone"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["10 mayo 2019"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1447"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Lewis Capaldi"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["11 junio 2020"],
+    "album": ["7"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1448"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Pop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["Vida"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1449"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Lady Gaga"],
+    "genero": ["R&B"],
+    "publicacion": ["10 mayo 2019"],
+    "album": ["7"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1450"],
+    "documento_tipo": [3],
+    "nombre": ["Rockstar"],
+    "autor": ["Tones and I"],
+    "genero": ["Pop"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1451"],
+    "documento_tipo": [3],
+    "nombre": ["Someone You Loved"],
+    "autor": ["Ed Sheeran"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["13 enero 2017"],
+    "album": ["Vida"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1452"],
+    "documento_tipo": [3],
+    "nombre": ["Someone You Loved"],
+    "autor": ["Tones and I"],
+    "genero": ["R&B"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1453"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Post Malone"],
+    "genero": ["Pop"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["Fine Line"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1454"],
+    "documento_tipo": [3],
+    "nombre": ["Old Town Road"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["R&B"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1455"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Lil Nas X"],
+    "genero": ["Alternative"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1456"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1457"],
+    "documento_tipo": [3],
+    "nombre": ["bad guy"],
+    "autor": ["Lady Gaga"],
+    "genero": ["Funk"],
+    "publicacion": ["28 abril 2020"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1458"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Luis Fonsi"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["10 mayo 2019"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1459"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["Pop"],
+    "publicacion": ["13 enero 2017"],
+    "album": ["Divinely Uninspired to a Hellish Extent"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1460"],
+    "documento_tipo": [3],
+    "nombre": ["Someone You Loved"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["Pop"],
+    "publicacion": ["29 marzo 2019"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1461"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Luis Fonsi"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["6 septiembre 2012"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1462"],
+    "documento_tipo": [3],
+    "nombre": ["Old Town Road"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["Pop"],
+    "publicacion": ["21 noviembre 2013"],
+    "album": ["Divinely Uninspired to a Hellish Extent"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1463"],
+    "documento_tipo": [3],
+    "nombre": ["Someone You Loved"],
+    "autor": ["Lewis Capaldi"],
+    "genero": ["Electronic"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["The Kids Are Coming"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1464"],
+    "documento_tipo": [3],
+    "nombre": ["blinding lights"],
+    "autor": ["Travis Scott"],
+    "genero": ["Pop"],
+    "publicacion": ["13 enero 2017"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1465"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["The Weeknd"],
+    "genero": ["Alternative"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1466"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["Travis Scott"],
+    "genero": ["Pop"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1467"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["The Chainsmokers"],
+    "genero": ["Pop"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["A Star Is Born"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1468"],
+    "documento_tipo": [3],
+    "nombre": ["blinding lights"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Pop"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["Fine Line"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1469"],
+    "documento_tipo": [3],
+    "nombre": ["Someone You Loved"],
+    "autor": ["Lewis Capaldi"],
+    "genero": ["Pop"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["Can't Stop the Feeling!"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1470"],
+    "documento_tipo": [3],
+    "nombre": ["Rolling in the Deep"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Pop"],
+    "publicacion": ["27 septiembre 2018"],
+    "album": ["WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1471"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Lil Nas X"],
+    "genero": ["R&B"],
+    "publicacion": ["10 noviembre 2014"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1472"],
+    "documento_tipo": [3],
+    "nombre": ["bad guy"],
+    "autor": ["Jawsh 685"],
+    "genero": ["Pop"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["Uptown Special"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1473"],
+    "documento_tipo": [3],
+    "nombre": ["Old Town Road"],
+    "autor": ["Travis Scott"],
+    "genero": ["Alternative"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["Uptown Special"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1474"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Jawsh 685"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["27 septiembre 2018"],
+    "album": ["WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1475"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Post Malone"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["13 enero 2017"],
+    "album": ["Night Visions"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1476"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["The Weeknd"],
+    "genero": ["Chamber Pop"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1477"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["Electronic"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["21"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1478"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Pop"],
+    "publicacion": ["28 abril 2020"],
+    "album": ["Hollywood's Bleeding"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1479"],
+    "documento_tipo": [3],
+    "nombre": ["watermelon sugar"],
+    "autor": ["Post Malone"],
+    "genero": ["Alternative"],
+    "publicacion": ["29 julio 2016"],
+    "album": ["Hollywood's Bleeding"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1480"],
+    "documento_tipo": [3],
+    "nombre": ["Shallow"],
+    "autor": ["Travis Scott"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["6 septiembre 2012"],
+    "album": ["Divinely Uninspired to a Hellish Extent"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1481"],
+    "documento_tipo": [3],
+    "nombre": ["drivers license"],
+    "autor": ["Travis Scott"],
+    "genero": ["Pop"],
+    "publicacion": ["6 mayo 2016"],
+    "album": ["Can't Stop the Feeling!"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0lx2cLdOt3piJbcaXIV74f"]
+  },
+  {
+    "id_universal": ["1482"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["6 enero 2017"],
+    "album": ["After Hours"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1483"],
+    "documento_tipo": [3],
+    "nombre": ["Rockstar"],
+    "autor": ["Mark Ronson"],
+    "genero": ["Pop"],
+    "publicacion": ["13 enero 2017"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1484"],
+    "documento_tipo": [3],
+    "nombre": ["drivers license"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Pop"],
+    "publicacion": ["29 noviembre 2019"],
+    "album": ["Savage Love (Laxed - Siren Beat)"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1485"],
+    "documento_tipo": [3],
+    "nombre": ["Old Town Road"],
+    "autor": ["The Chainsmokers"],
+    "genero": ["Pop"],
+    "publicacion": ["8 enero 2021"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1486"],
+    "documento_tipo": [3],
+    "nombre": ["Rockstar"],
+    "autor": ["Travis Scott"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1487"],
+    "documento_tipo": [3],
+    "nombre": ["Despacito"],
+    "autor": ["Adele"],
+    "genero": ["Pop"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["G I R L"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1488"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Harry Styles"],
+    "genero": ["Pop"],
+    "publicacion": ["10 noviembre 2014"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1489"],
+    "documento_tipo": [3],
+    "nombre": ["Radioactive"],
+    "autor": ["Billie Eilish"],
+    "genero": ["Pop"],
+    "publicacion": ["13 enero 2017"],
+    "album": ["Fine Line"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1490"],
+    "documento_tipo": [3],
+    "nombre": ["Closer"],
+    "autor": ["Lil Nas X"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["13 enero 2017"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1491"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Imagine Dragons"],
+    "genero": ["R&B"],
+    "publicacion": ["11 diciembre 2020"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1492"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Lady Gaga"],
+    "genero": ["Pop"],
+    "publicacion": ["30 noviembre 2010"],
+    "album": ["Astroworld"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1493"],
+    "documento_tipo": [3],
+    "nombre": ["Sicko Mode"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Pop"],
+    "publicacion": ["16 diciembre 2019"],
+    "album": ["evermore"],
+    "enlace": ["https://open.spotify.com/intl-es/track/5l9g7py8RCblcvbZgGQgSd"]
+  },
+  {
+    "id_universal": ["1494"],
+    "documento_tipo": [3],
+    "nombre": ["Someone You Loved"],
+    "autor": ["Luis Fonsi"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["4 abril 2019"],
+    "album": ["Hollywood's Bleeding"],
+    "enlace": ["https://open.spotify.com/intl-es/track/7lPN2DXiMsVn7XUKtOW1CS"]
+  },
+  {
+    "id_universal": ["1495"],
+    "documento_tipo": [3],
+    "nombre": ["Shape of You"],
+    "autor": ["Olivia Rodrigo"],
+    "genero": ["Pop"],
+    "publicacion": ["19 marzo 2019"],
+    "album": ["The Kids Are Coming"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1496"],
+    "documento_tipo": [3],
+    "nombre": ["Despacito"],
+    "autor": ["Justin Timberlake"],
+    "genero": ["Hip Hop"],
+    "publicacion": ["8 enero 2021"],
+    "album": ["Closer"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1497"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["Lil Nas X"],
+    "genero": ["Reggaeton"],
+    "publicacion": ["21 agosto 2018"],
+    "album": ["Vida"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1498"],
+    "documento_tipo": [3],
+    "nombre": ["Dance Monkey"],
+    "autor": ["Pharrell Williams"],
+    "genero": ["Pop"],
+    "publicacion": ["10 noviembre 2014"],
+    "album": ["7"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  },
+  {
+    "id_universal": ["1499"],
+    "documento_tipo": [3],
+    "nombre": ["Can't Stop the Feeling!"],
+    "autor": ["The Weeknd"],
+    "genero": ["Indie Folk"],
+    "publicacion": ["8 enero 2021"],
+    "album": ["Uptown Special"],
+    "enlace": ["https://open.spotify.com/intl-es/track/0VjIjW4GlUZAMYd2vXMi3b"]
+  },
+  {
+    "id_universal": ["1500"],
+    "documento_tipo": [3],
+    "nombre": ["bad guy"],
+    "autor": ["Billie Eilish"],
+    "genero": ["Pop"],
+    "publicacion": ["8 enero 2021"],
+    "album": ["÷"],
+    "enlace": ["https://open.spotify.com/intl-es/track/2Fxmhks0bxGSBdJ92vM42m"]
+  }
+]

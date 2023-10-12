@@ -1,0 +1,5002 @@
+[
+  {
+    "id_universal": ["501"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Daniel"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["502"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Alejandro"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["503"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Alejandro"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["504"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Roberto"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["505"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Jacopo"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["506"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Ana"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["507"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Jacopo"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["508"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Carlos"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["509"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Maria"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["510"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Daniel"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["511"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Ana"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["512"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Daniel"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["513"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Andres"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["514"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Ana"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["515"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Laura"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["516"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Carlos"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["517"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Maria"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["518"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Maria"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["519"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Jacopo"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["520"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Andres"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["521"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Laura"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["522"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Maria"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["523"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Ana"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["524"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Alejandro"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["525"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Ana"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["526"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Elena"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["527"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Daniel"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["528"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Ana"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["529"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Carlos"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["530"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Maria"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["531"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Alejandro"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["532"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Carlos"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["533"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Laura"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["534"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Maria"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["535"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Carlos"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["536"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Carlos"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["537"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Carlos"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["538"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Elena"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["539"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Daniel"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["540"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Jacopo"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["541"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Maria"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["542"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Carlos"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["543"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Alejandro"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["544"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Jacopo"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["545"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Carlos"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["546"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Daniel"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["547"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Ana"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["548"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Maria"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["549"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Maria"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["550"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Daniel"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["551"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Andres"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["552"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Daniel"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["553"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Maria"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["554"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Elena"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["555"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Carlos"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["556"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Elena"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["557"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Ana"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["558"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Maria"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["559"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Maria"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["560"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Maria"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["561"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Daniel"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["562"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Andres"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["563"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Alejandro"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["564"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Daniel"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["565"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Carlos"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["566"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Laura"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["567"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Elena"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["568"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Laura"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["569"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Carlos"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["570"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Alejandro"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["571"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Elena"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["572"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Ana"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["573"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Maria"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["574"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Ana"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["575"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Daniel"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["576"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Daniel"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["577"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Alejandro"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["578"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Roberto"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["579"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Laura"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["580"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Ana"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["581"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Daniel"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["582"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Jacopo"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["583"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Roberto"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["584"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Laura"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["585"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Ana"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["586"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Carlos"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["587"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Jacopo"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["588"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Carlos"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["589"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Laura"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["590"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Laura"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["591"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Laura"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["592"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Roberto"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["593"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Jacopo"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["594"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Roberto"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["595"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Elena"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["596"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Elena"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["597"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Elena"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["598"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Ana"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["599"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Elena"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["600"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Laura"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["601"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Daniel"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["602"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Alejandro"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["603"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Roberto"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["604"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Andres"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["605"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Maria"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["606"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Andres"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["607"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Elena"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["608"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Daniel"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["609"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Maria"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["610"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Jacopo"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["611"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Maria"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["612"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Carlos"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["613"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Maria"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["614"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Laura"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["615"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Daniel"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["616"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Carlos"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["617"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Daniel"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["618"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Roberto"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["619"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Elena"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["620"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Ana"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["621"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Jacopo"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["622"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Carlos"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["623"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Jacopo"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["624"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Alejandro"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["625"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Andres"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["626"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Andres"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["627"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Elena"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["628"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Elena"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["629"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Maria"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["630"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Laura"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["631"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Daniel"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["632"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Carlos"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["633"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Ana"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["634"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Daniel"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["635"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Andres"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["636"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Carlos"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["637"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Alejandro"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["638"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Laura"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["639"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Elena"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["640"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Laura"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["641"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Roberto"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["642"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Andres"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["643"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Andres"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["644"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Laura"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["645"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Andres"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["646"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Carlos"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["647"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Ana"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["648"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Ana"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["649"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Jacopo"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["650"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Daniel"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["651"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Carlos"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["652"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Roberto"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["653"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Roberto"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["654"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Roberto"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["655"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Roberto"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["656"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Daniel"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["657"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Maria"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["658"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Alejandro"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["659"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Ana"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["660"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Laura"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["661"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Ana"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["662"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Elena"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["663"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Alejandro"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["664"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Laura"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["665"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Jacopo"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["666"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Laura"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["667"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Daniel"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["668"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Jacopo"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["669"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Jacopo"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["670"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Daniel"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["671"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Alejandro"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["672"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Carlos"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["673"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Andres"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["674"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Laura"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["675"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Alejandro"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["676"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Elena"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["677"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Alejandro"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["678"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Andres"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["679"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Ana"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["680"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Ana"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["681"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Elena"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["682"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Daniel"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["683"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Daniel"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["684"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Laura"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["685"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Jacopo"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["686"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Jacopo"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["687"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Elena"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["688"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Ana"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["689"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Laura"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["690"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Alejandro"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["691"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Carlos"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["692"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Andres"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["693"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Laura"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["694"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Alejandro"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["695"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Daniel"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["696"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Maria"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["697"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Elena"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["698"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Roberto"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["699"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Carlos"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["700"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Daniel"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["701"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Laura"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["702"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Jacopo"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["703"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Andres"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["704"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Laura"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["705"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Maria"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["706"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Daniel"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["707"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Laura"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["708"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Alejandro"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["709"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Carlos"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["710"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Daniel"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["711"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Carlos"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["712"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Daniel"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["713"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Maria"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["714"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Maria"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["715"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Laura"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["716"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Laura"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["717"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Roberto"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["718"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Ana"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["719"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Maria"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["720"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Jacopo"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["721"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Carlos"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["722"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Daniel"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["723"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Laura"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["724"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Maria"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["725"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Elena"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["726"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Elena"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["727"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Elena"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["728"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Alejandro"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["729"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Carlos"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["730"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Daniel"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["731"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Ana"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["732"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Maria"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["733"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Laura"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["734"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Alejandro"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["735"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Alejandro"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["736"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Alejandro"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["737"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Roberto"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["738"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Elena"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["739"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Alejandro"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["740"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Daniel"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["741"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Alejandro"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["742"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Roberto"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["743"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Ana"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["744"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Laura"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["745"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Ana"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["746"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Maria"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["747"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Roberto"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["748"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Jacopo"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["749"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Daniel"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["750"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Roberto"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["751"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Maria"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["752"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Carlos"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["753"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Jacopo"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["754"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Jacopo"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["755"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Roberto"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["756"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Jacopo"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["757"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Laura"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["758"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Laura"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["759"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Ana"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["760"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Roberto"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["761"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Jacopo"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["762"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Carlos"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["763"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Elena"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["764"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Maria"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["765"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Roberto"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["766"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Elena"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["767"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Jacopo"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["768"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Roberto"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["769"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Maria"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["770"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Carlos"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["771"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Daniel"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["772"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Andres"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["773"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Carlos"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["774"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Ana"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["775"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Elena"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["776"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Andres"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["777"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Carlos"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["778"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Carlos"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["779"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Alejandro"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["780"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Alejandro"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["781"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Alejandro"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["782"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Ana"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["783"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Elena"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["784"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Carlos"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["785"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Andres"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["786"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Ana"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["787"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Andres"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["788"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Laura"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["789"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Ana"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["790"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Roberto"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["791"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Jacopo"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["792"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Andres"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["793"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Ana"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["794"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Maria"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["795"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Andres"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["796"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Ana"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["797"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Maria"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["798"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Maria"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["799"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Daniel"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["800"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Maria"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["801"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Daniel"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["802"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Laura"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["803"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Elena"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["804"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Ana"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["805"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Carlos"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["806"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Maria"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["807"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Elena"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["808"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Alejandro"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["809"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Jacopo"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["810"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Ana"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["811"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Carlos"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["812"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Andres"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["813"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Daniel"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["814"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Andres"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["815"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Jacopo"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["816"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Elena"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["817"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Andres"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["818"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Laura"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["819"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Andres"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["820"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Alejandro"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["821"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Roberto"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["822"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Andres"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["823"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Laura"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["824"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Laura"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["825"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Roberto"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["826"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Alejandro"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["827"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Carlos"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["828"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Daniel"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["829"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Roberto"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["830"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Jacopo"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["831"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Andres"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["832"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Ana"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["833"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Daniel"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["834"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Andres"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["835"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Andres"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["836"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Elena"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["837"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Jacopo"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["838"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Alejandro"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["839"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Roberto"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["840"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Carlos"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["841"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Maria"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["842"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Maria"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["843"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Ana"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["844"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Daniel"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["845"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Maria"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["846"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Laura"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["847"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Alejandro"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["848"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Daniel"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["849"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Jacopo"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["850"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Laura"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["851"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Daniel"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["852"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Carlos"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["853"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Alejandro"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["854"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Andres"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["855"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Ana"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["856"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Maria"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["857"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Laura"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["858"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Daniel"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["859"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Elena"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["860"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Daniel"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["861"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Roberto"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["862"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Roberto"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["863"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Maria"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["864"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Alejandro"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["865"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Alejandro"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["866"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Jacopo"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["867"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Andres"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["868"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Roberto"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["869"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Alejandro"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["870"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Laura"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["871"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Jacopo"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["872"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Jacopo"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["873"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Jacopo"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["874"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Ana"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["875"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Maria"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["876"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Carlos"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["877"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Elena"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["878"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Laura"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["879"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Alejandro"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["880"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Andres"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["881"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Maria"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["882"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Daniel"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["883"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Alejandro"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["884"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Elena"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["885"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Elena"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["886"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Andres"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["887"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Daniel"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["888"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Ana"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["889"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Roberto"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["890"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Andres"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["891"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Alejandro"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["892"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Jacopo"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["893"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Andres"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["894"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Daniel"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["895"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Elena"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["896"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Daniel"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["897"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Jacopo"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["898"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Alejandro"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["899"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Maria"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["900"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Maria"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["901"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Jacopo"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["902"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Laura"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["903"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Elena"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["904"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Jacopo"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["905"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Andres"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["906"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Ana"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["907"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Elena"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["908"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Roberto"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["909"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Daniel"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["910"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Elena"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["911"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Laura"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["912"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Daniel"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["913"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Alejandro"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["914"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Carlos"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["915"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Maria"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["916"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Laura"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["917"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Ana"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["918"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Carlos"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["919"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Roberto"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["920"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Andres"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["921"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Alejandro"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["922"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Carlos"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["923"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Roberto"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["924"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Ana"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["925"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Daniel"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["926"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Roberto"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["927"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Roberto"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["928"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Laura"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["929"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Daniel"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["930"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Jacopo"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["931"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Alejandro"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["932"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Ana"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["933"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Roberto"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["934"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Roberto"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["935"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Elena"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["936"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Maria"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["937"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Elena"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["938"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Andres"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["939"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Elena"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["940"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Laura"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["941"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Jacopo"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["942"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Carlos"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["943"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Carlos"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["944"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Daniel"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["945"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Andres"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["946"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Laura"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["947"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Alejandro"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["948"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Ana"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["949"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Carlos"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["950"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Laura"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["951"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Maria"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["952"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Roberto"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["953"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Andres"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["954"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Laura"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["955"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Ana"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["956"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Ana"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["957"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Ana"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["958"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Daniel"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["959"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Ana"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["960"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Ana"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["961"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Ana"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["962"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Andres"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["963"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Elena"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["964"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Maria"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["965"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Daniel"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["966"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Ana"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["967"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Elena"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["968"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Jacopo"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["969"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Roberto"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["970"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Daniel"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economia_a_polpette/about"]
+  },
+  {
+    "id_universal": ["971"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Daniel"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["972"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Andres"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["973"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Laura"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["974"],
+    "documento_tipo": [2],
+    "canal": ["inversionesmaestras"],
+    "autor": ["Andres"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/videogamesworld/about"]
+  },
+  {
+    "id_universal": ["975"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Carlos"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["976"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Andres"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["977"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Carlos"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["978"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Roberto"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["979"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Jacopo"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["980"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Laura"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["981"],
+    "documento_tipo": [2],
+    "canal": ["creatividadsinlimites"],
+    "autor": ["Ana"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["982"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Andres"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["983"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Daniel"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["984"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Jacopo"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["985"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Laura"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["986"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Elena"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["987"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Elena"],
+    "genero": ["Tecnología"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["988"],
+    "documento_tipo": [2],
+    "canal": ["videogamesworld"],
+    "autor": ["Elena"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["989"],
+    "documento_tipo": [2],
+    "canal": ["economiaapolpetter"],
+    "autor": ["Ana"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["990"],
+    "documento_tipo": [2],
+    "canal": ["analisisfinanciero"],
+    "autor": ["Carlos"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/emprendimientomaster/about"]
+  },
+  {
+    "id_universal": ["991"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Ana"],
+    "genero": ["Economia"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["992"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Ana"],
+    "genero": ["Videojuegos"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/creatividadsinlimites/about"]
+  },
+  {
+    "id_universal": ["993"],
+    "documento_tipo": [2],
+    "canal": ["tecnologiaparatodos"],
+    "autor": ["Jacopo"],
+    "genero": ["Creatividad"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["994"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Ana"],
+    "genero": ["Inversiones"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/inversionesmaestras/about"]
+  },
+  {
+    "id_universal": ["995"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Roberto"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/finanzasparatodos/about"]
+  },
+  {
+    "id_universal": ["996"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Alejandro"],
+    "genero": ["Finanzas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  },
+  {
+    "id_universal": ["997"],
+    "documento_tipo": [2],
+    "canal": ["finanzasparatodos"],
+    "autor": ["Elena"],
+    "genero": ["Marketing"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/tecnologiaparatodos/about"]
+  },
+  {
+    "id_universal": ["998"],
+    "documento_tipo": [2],
+    "canal": ["marketingdigital"],
+    "autor": ["Maria"],
+    "genero": ["Negocios"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/marketingdigital/about"]
+  },
+  {
+    "id_universal": ["999"],
+    "documento_tipo": [2],
+    "canal": ["emprendimientomaster"],
+    "autor": ["Elena"],
+    "genero": ["Emprendimiento"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/analisisfinanciero/about"]
+  },
+  {
+    "id_universal": ["1000"],
+    "documento_tipo": [2],
+    "canal": ["economiacreativa"],
+    "autor": ["Jacopo"],
+    "genero": ["Criptomonedas"],
+    "redes_sociales": ["youtube e instagram"],
+    "negocio": ["cryptomonedas"],
+    "enlace": ["https://www.twitch.tv/economiacreativa/about"]
+  }
+]

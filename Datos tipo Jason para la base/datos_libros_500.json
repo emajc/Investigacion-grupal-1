@@ -1,0 +1,5002 @@
+[
+  {
+    "id_universal": ["1"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["Olivia Harris"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["15 febrero de 2030"],
+    "apartado": ["Cultural Exchange"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["2"],
+    "documento_tipo": [1],
+    "nombre": ["policy debates"],
+    "autor": ["James Michel"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["15 febrero de 2030"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["3"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["Sarah Johnson"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["4"],
+    "documento_tipo": [1],
+    "nombre": ["future of governance"],
+    "autor": ["Mia Brown"],
+    "enfoque": ["Ciencia"],
+    "fecha_publicacion": ["20 mayo de 2030"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["5"],
+    "documento_tipo": [1],
+    "nombre": ["policy pioneers"],
+    "autor": ["Mia Brown"],
+    "enfoque": ["Innovación"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["6"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Ava White"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Social Equity"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["7"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Ciencia"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["8"],
+    "documento_tipo": [1],
+    "nombre": ["policy pioneers"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["9"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["Sarah Johnson"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["10"],
+    "documento_tipo": [1],
+    "nombre": ["global challenges"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["3 agosto de 2030"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["11"],
+    "documento_tipo": [1],
+    "nombre": ["global challenges"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Beyond Aid"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["12"],
+    "documento_tipo": [1],
+    "nombre": ["policy and beyond"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Beyond Aid"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["13"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Ava White"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["19 marzo de 2031"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["14"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Ethan Turner"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["15"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["Sophia Green"],
+    "enfoque": ["Innovación"],
+    "fecha_publicacion": ["19 marzo de 2031"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["16"],
+    "documento_tipo": [1],
+    "nombre": ["policy debates"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Política"],
+    "fecha_publicacion": ["15 febrero de 2030"],
+    "apartado": ["Human Rights"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["17"],
+    "documento_tipo": [1],
+    "nombre": ["policy pioneers"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["18"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["19"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["Olivia Harris"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["14 junio de 2030"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["20"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["3 agosto de 2030"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["21"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Medios de Comunicación"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["22"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["Noah Clark"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["18 septiembre de 2030"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["23"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["Elijah Hall"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["18 septiembre de 2030"],
+    "apartado": ["Social Equity"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["24"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["3 agosto de 2030"],
+    "apartado": ["Social Equity"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["25"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Elijah Hall"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["26"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Ella Moore"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["8 julio de 2030"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["27"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["Emily Davis"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["28"],
+    "documento_tipo": [1],
+    "nombre": ["policy and beyond"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Ciencia"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["29"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Innovación"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Cultural Exchange"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["30"],
+    "documento_tipo": [1],
+    "nombre": ["leadership insights"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["7 diciembre de 2030"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["31"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["Elijah Hall"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["9 mayo de 2031"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["32"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Mia Brown"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["18 septiembre de 2030"],
+    "apartado": ["Gender Equality"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["33"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["34"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Política"],
+    "fecha_publicacion": ["18 septiembre de 2030"],
+    "apartado": ["Beyond Aid"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["35"],
+    "documento_tipo": [1],
+    "nombre": ["leadership insights"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["8 julio de 2030"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["36"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["7 diciembre de 2030"],
+    "apartado": ["Human Rights"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["37"],
+    "documento_tipo": [1],
+    "nombre": ["policy debates"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Educación"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["38"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["Emily Davis"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["8 julio de 2030"],
+    "apartado": ["Social Equity"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["39"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["Ava White"],
+    "enfoque": ["Sociedad"],
+    "fecha_publicacion": ["9 mayo de 2031"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["40"],
+    "documento_tipo": [1],
+    "nombre": ["future of governance"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["15 febrero de 2030"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["41"],
+    "documento_tipo": [1],
+    "nombre": ["future of governance"],
+    "autor": ["Noah Clark"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["42"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Arte"],
+    "fecha_publicacion": ["3 agosto de 2030"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["43"],
+    "documento_tipo": [1],
+    "nombre": ["sustainable solutions"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Innovación"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Human Rights"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["44"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Emprendimiento"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["45"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["James Michel"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Cultural Exchange"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["46"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["Sarah Johnson"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["47"],
+    "documento_tipo": [1],
+    "nombre": ["policy and beyond"],
+    "autor": ["Sarah Johnson"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["20 mayo de 2030"],
+    "apartado": ["Economic Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["48"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["49"],
+    "documento_tipo": [1],
+    "nombre": ["global challenges"],
+    "autor": ["Elijah Hall"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["50"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["7 diciembre de 2030"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["51"],
+    "documento_tipo": [1],
+    "nombre": ["policy debates"],
+    "autor": ["Mia Brown"],
+    "enfoque": ["Diversidad"],
+    "fecha_publicacion": ["15 febrero de 2030"],
+    "apartado": ["Educational Excellence"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["52"],
+    "documento_tipo": [1],
+    "nombre": ["policy matters"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["8 julio de 2030"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["53"],
+    "documento_tipo": [1],
+    "nombre": ["policy matters"],
+    "autor": ["Mia Brown"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Economic Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["54"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["Mia Brown"],
+    "enfoque": ["Derecho"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Beyond Aid"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["55"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["56"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Sociedad"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Cultural Exchange"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["57"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Innovación"],
+    "fecha_publicacion": ["18 septiembre de 2030"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["58"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Ava White"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["3 agosto de 2030"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["59"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Sociedad"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["60"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Derecho"],
+    "fecha_publicacion": ["22 octubre de 2030"],
+    "apartado": ["Gender Equality"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["61"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["19 marzo de 2031"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["62"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["Ethan Turner"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["63"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Arte"],
+    "fecha_publicacion": ["14 junio de 2030"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["64"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["Ella Moore"],
+    "enfoque": ["Diversidad"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["65"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Arte"],
+    "fecha_publicacion": ["20 mayo de 2030"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["66"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["67"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Diversidad"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["68"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Olivia Harris"],
+    "enfoque": ["Tecnología"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["69"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["James Michel"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["14 junio de 2030"],
+    "apartado": ["Human Rights"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["70"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["Ava White"],
+    "enfoque": ["Ciencia"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["71"],
+    "documento_tipo": [1],
+    "nombre": ["elements of the 2030 agenda"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Derecho"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["72"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Innovación"],
+    "fecha_publicacion": ["15 febrero de 2030"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["73"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Sociedad"],
+    "fecha_publicacion": ["14 junio de 2030"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["74"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["75"],
+    "documento_tipo": [1],
+    "nombre": ["elements of the 2030 agenda"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Diversidad"],
+    "fecha_publicacion": ["18 septiembre de 2030"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["76"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Logan Anderson"],
+    "enfoque": ["Tecnología"],
+    "fecha_publicacion": ["9 mayo de 2031"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["77"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["78"],
+    "documento_tipo": [1],
+    "nombre": ["policy and beyond"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Arte"],
+    "fecha_publicacion": ["8 julio de 2030"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["79"],
+    "documento_tipo": [1],
+    "nombre": ["policy pioneers"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Emprendimiento"],
+    "fecha_publicacion": ["14 junio de 2030"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["80"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["19 marzo de 2031"],
+    "apartado": ["Gender Equality"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["81"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["Ava White"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["82"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["Logan Anderson"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["18 septiembre de 2030"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["83"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["7 diciembre de 2030"],
+    "apartado": ["Gender Equality"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["84"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Política"],
+    "fecha_publicacion": ["18 septiembre de 2030"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["85"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Sophia Green"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["9 mayo de 2031"],
+    "apartado": ["Beyond Aid"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["86"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["87"],
+    "documento_tipo": [1],
+    "nombre": ["policy matters"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["8 julio de 2030"],
+    "apartado": ["Economic Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["88"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["Sophia Green"],
+    "enfoque": ["Sociedad"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["89"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["Sarah Johnson"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["9 mayo de 2031"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["90"],
+    "documento_tipo": [1],
+    "nombre": ["elements of the 2030 agenda"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Sociedad"],
+    "fecha_publicacion": ["9 mayo de 2031"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["91"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Noah Clark"],
+    "enfoque": ["Educación"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["92"],
+    "documento_tipo": [1],
+    "nombre": ["policy debates"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["20 mayo de 2030"],
+    "apartado": ["Economic Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["93"],
+    "documento_tipo": [1],
+    "nombre": ["policy matters"],
+    "autor": ["Olivia Harris"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["94"],
+    "documento_tipo": [1],
+    "nombre": ["policy pioneers"],
+    "autor": ["Logan Anderson"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["95"],
+    "documento_tipo": [1],
+    "nombre": ["policy and beyond"],
+    "autor": ["Mia Brown"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["3 agosto de 2030"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["96"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["Ava White"],
+    "enfoque": ["Política"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["97"],
+    "documento_tipo": [1],
+    "nombre": ["policy and beyond"],
+    "autor": ["Ella Moore"],
+    "enfoque": ["Tecnología"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["98"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Logan Anderson"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["14 junio de 2030"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["99"],
+    "documento_tipo": [1],
+    "nombre": ["policy debates"],
+    "autor": ["Sophia Green"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["100"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["Elijah Hall"],
+    "enfoque": ["Emprendimiento"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Cultural Exchange"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["101"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["102"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["103"],
+    "documento_tipo": [1],
+    "nombre": ["future of governance"],
+    "autor": ["Mia Brown"],
+    "enfoque": ["Diversidad"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["104"],
+    "documento_tipo": [1],
+    "nombre": ["global challenges"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Cultural Exchange"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["105"],
+    "documento_tipo": [1],
+    "nombre": ["policy debates"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["106"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["9 mayo de 2031"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["107"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Tecnología"],
+    "fecha_publicacion": ["14 junio de 2030"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["108"],
+    "documento_tipo": [1],
+    "nombre": ["elements of the 2030 agenda"],
+    "autor": ["James Michel"],
+    "enfoque": ["Innovación"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Educational Excellence"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["109"],
+    "documento_tipo": [1],
+    "nombre": ["policy pioneers"],
+    "autor": ["Elijah Hall"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Beyond Aid"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["110"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["111"],
+    "documento_tipo": [1],
+    "nombre": ["policy debates"],
+    "autor": ["Noah Clark"],
+    "enfoque": ["Emprendimiento"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Educational Excellence"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["112"],
+    "documento_tipo": [1],
+    "nombre": ["policy debates"],
+    "autor": ["Ethan Turner"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Human Rights"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["113"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Sociedad"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["114"],
+    "documento_tipo": [1],
+    "nombre": ["elements of the 2030 agenda"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["7 diciembre de 2030"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["115"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["116"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Beyond Aid"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["117"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["118"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Noah Clark"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["119"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Logan Anderson"],
+    "enfoque": ["Medios de Comunicación"],
+    "fecha_publicacion": ["8 julio de 2030"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["120"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["Logan Anderson"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["9 mayo de 2031"],
+    "apartado": ["Economic Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["121"],
+    "documento_tipo": [1],
+    "nombre": ["global challenges"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Educación"],
+    "fecha_publicacion": ["20 mayo de 2030"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["122"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["14 junio de 2030"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["123"],
+    "documento_tipo": [1],
+    "nombre": ["policy pioneers"],
+    "autor": ["Olivia Harris"],
+    "enfoque": ["Arte"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["124"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["3 agosto de 2030"],
+    "apartado": ["Human Rights"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["125"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Noah Clark"],
+    "enfoque": ["Educación"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["126"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Sarah Johnson"],
+    "enfoque": ["Derecho"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["127"],
+    "documento_tipo": [1],
+    "nombre": ["leadership insights"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Ciencia"],
+    "fecha_publicacion": ["7 diciembre de 2030"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["128"],
+    "documento_tipo": [1],
+    "nombre": ["leadership insights"],
+    "autor": ["Emily Davis"],
+    "enfoque": ["Medios de Comunicación"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Economic Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["129"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["Ella Moore"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["130"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["131"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Emprendimiento"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["132"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Emily Davis"],
+    "enfoque": ["Ciencia"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["133"],
+    "documento_tipo": [1],
+    "nombre": ["policy debates"],
+    "autor": ["James Michel"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Cultural Exchange"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["134"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["9 mayo de 2031"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["135"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Arte"],
+    "fecha_publicacion": ["19 marzo de 2031"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["136"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["James Michel"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["137"],
+    "documento_tipo": [1],
+    "nombre": ["policy matters"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Tecnología"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["138"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["Logan Anderson"],
+    "enfoque": ["Emprendimiento"],
+    "fecha_publicacion": ["7 diciembre de 2030"],
+    "apartado": ["Cultural Exchange"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["139"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Logan Anderson"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["140"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Sophia Green"],
+    "enfoque": ["Arte"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["141"],
+    "documento_tipo": [1],
+    "nombre": ["elements of the 2030 agenda"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["22 octubre de 2030"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["142"],
+    "documento_tipo": [1],
+    "nombre": ["sustainable solutions"],
+    "autor": ["Ella Moore"],
+    "enfoque": ["Educación"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["143"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["Emily Davis"],
+    "enfoque": ["Política"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["144"],
+    "documento_tipo": [1],
+    "nombre": ["future of governance"],
+    "autor": ["Logan Anderson"],
+    "enfoque": ["Arte"],
+    "fecha_publicacion": ["7 diciembre de 2030"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["145"],
+    "documento_tipo": [1],
+    "nombre": ["policy debates"],
+    "autor": ["Noah Clark"],
+    "enfoque": ["Educación"],
+    "fecha_publicacion": ["18 septiembre de 2030"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["146"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["Ethan Turner"],
+    "enfoque": ["Educación"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["147"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["148"],
+    "documento_tipo": [1],
+    "nombre": ["policy pioneers"],
+    "autor": ["Ella Moore"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["149"],
+    "documento_tipo": [1],
+    "nombre": ["future of governance"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Derecho"],
+    "fecha_publicacion": ["7 diciembre de 2030"],
+    "apartado": ["Beyond Aid"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["150"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Logan Anderson"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["20 mayo de 2030"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["151"],
+    "documento_tipo": [1],
+    "nombre": ["policy matters"],
+    "autor": ["Elijah Hall"],
+    "enfoque": ["Medios de Comunicación"],
+    "fecha_publicacion": ["14 junio de 2030"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["152"],
+    "documento_tipo": [1],
+    "nombre": ["future of governance"],
+    "autor": ["Noah Clark"],
+    "enfoque": ["Emprendimiento"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Human Rights"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["153"],
+    "documento_tipo": [1],
+    "nombre": ["leadership insights"],
+    "autor": ["Ethan Turner"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Human Rights"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["154"],
+    "documento_tipo": [1],
+    "nombre": ["policy matters"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["155"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["Emily Davis"],
+    "enfoque": ["Ciencia"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["156"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["Noah Clark"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["22 octubre de 2030"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["157"],
+    "documento_tipo": [1],
+    "nombre": ["policy and beyond"],
+    "autor": ["Mia Brown"],
+    "enfoque": ["Política"],
+    "fecha_publicacion": ["9 mayo de 2031"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["158"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Derecho"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["159"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Sociedad"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["160"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["James Michel"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Beyond Aid"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["161"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Derecho"],
+    "fecha_publicacion": ["15 febrero de 2030"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["162"],
+    "documento_tipo": [1],
+    "nombre": ["sustainable solutions"],
+    "autor": ["James Michel"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["9 mayo de 2031"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["163"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["Sophia Green"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["164"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["Sophia Green"],
+    "enfoque": ["Educación"],
+    "fecha_publicacion": ["22 octubre de 2030"],
+    "apartado": ["Social Equity"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["165"],
+    "documento_tipo": [1],
+    "nombre": ["global challenges"],
+    "autor": ["Noah Clark"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["8 julio de 2030"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["166"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Ciencia"],
+    "fecha_publicacion": ["22 octubre de 2030"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["167"],
+    "documento_tipo": [1],
+    "nombre": ["policy matters"],
+    "autor": ["James Michel"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["168"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Emprendimiento"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["169"],
+    "documento_tipo": [1],
+    "nombre": ["policy and beyond"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["170"],
+    "documento_tipo": [1],
+    "nombre": ["sustainable solutions"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["171"],
+    "documento_tipo": [1],
+    "nombre": ["elements of the 2030 agenda"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Innovación"],
+    "fecha_publicacion": ["22 octubre de 2030"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["172"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["173"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Ethan Turner"],
+    "enfoque": ["Medios de Comunicación"],
+    "fecha_publicacion": ["22 octubre de 2030"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["174"],
+    "documento_tipo": [1],
+    "nombre": ["policy and beyond"],
+    "autor": ["Sarah Johnson"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["175"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["Sarah Johnson"],
+    "enfoque": ["Medios de Comunicación"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["176"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Olivia Harris"],
+    "enfoque": ["Ciencia"],
+    "fecha_publicacion": ["20 mayo de 2030"],
+    "apartado": ["Cultural Exchange"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["177"],
+    "documento_tipo": [1],
+    "nombre": ["elements of the 2030 agenda"],
+    "autor": ["Ava White"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["14 junio de 2030"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["178"],
+    "documento_tipo": [1],
+    "nombre": ["sustainable solutions"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Gender Equality"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["179"],
+    "documento_tipo": [1],
+    "nombre": ["global challenges"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Tecnología"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["180"],
+    "documento_tipo": [1],
+    "nombre": ["global challenges"],
+    "autor": ["Mia Brown"],
+    "enfoque": ["Ciencia"],
+    "fecha_publicacion": ["19 marzo de 2031"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["181"],
+    "documento_tipo": [1],
+    "nombre": ["policy matters"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["22 octubre de 2030"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["182"],
+    "documento_tipo": [1],
+    "nombre": ["global challenges"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Emprendimiento"],
+    "fecha_publicacion": ["8 julio de 2030"],
+    "apartado": ["Educational Excellence"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["183"],
+    "documento_tipo": [1],
+    "nombre": ["policy debates"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Política"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["184"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Ella Moore"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["185"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["James Michel"],
+    "enfoque": ["Diversidad"],
+    "fecha_publicacion": ["18 septiembre de 2030"],
+    "apartado": ["Economic Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["186"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["187"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["Ava White"],
+    "enfoque": ["Política"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Cultural Exchange"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["188"],
+    "documento_tipo": [1],
+    "nombre": ["sustainable solutions"],
+    "autor": ["Mia Brown"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Educational Excellence"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["189"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Olivia Harris"],
+    "enfoque": ["Educación"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["190"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Tecnología"],
+    "fecha_publicacion": ["22 octubre de 2030"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["191"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Mia Brown"],
+    "enfoque": ["Medios de Comunicación"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["192"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Emprendimiento"],
+    "fecha_publicacion": ["19 marzo de 2031"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["193"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["Noah Clark"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["9 mayo de 2031"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["194"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Diversidad"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["195"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Noah Clark"],
+    "enfoque": ["Medios de Comunicación"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Beyond Aid"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["196"],
+    "documento_tipo": [1],
+    "nombre": ["leadership insights"],
+    "autor": ["Emily Davis"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["22 octubre de 2030"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["197"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["Logan Anderson"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["198"],
+    "documento_tipo": [1],
+    "nombre": ["policy debates"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Beyond Aid"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["199"],
+    "documento_tipo": [1],
+    "nombre": ["elements of the 2030 agenda"],
+    "autor": ["Logan Anderson"],
+    "enfoque": ["Sociedad"],
+    "fecha_publicacion": ["9 mayo de 2031"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["200"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["18 septiembre de 2030"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["201"],
+    "documento_tipo": [1],
+    "nombre": ["sustainable solutions"],
+    "autor": ["Emily Davis"],
+    "enfoque": ["Emprendimiento"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Gender Equality"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["202"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["Elijah Hall"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Beyond Aid"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["203"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Arte"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["204"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["Ava White"],
+    "enfoque": ["Diversidad"],
+    "fecha_publicacion": ["9 mayo de 2031"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["205"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["Ella Moore"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["8 julio de 2030"],
+    "apartado": ["Social Equity"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["206"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["Sarah Johnson"],
+    "enfoque": ["Medios de Comunicación"],
+    "fecha_publicacion": ["7 diciembre de 2030"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["207"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Emprendimiento"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["208"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["James Michel"],
+    "enfoque": ["Ciencia"],
+    "fecha_publicacion": ["15 febrero de 2030"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["209"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Elijah Hall"],
+    "enfoque": ["Tecnología"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["210"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["7 diciembre de 2030"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["211"],
+    "documento_tipo": [1],
+    "nombre": ["policy pioneers"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["22 octubre de 2030"],
+    "apartado": ["Social Equity"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["212"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Sociedad"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Educational Excellence"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["213"],
+    "documento_tipo": [1],
+    "nombre": ["future of governance"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Tecnología"],
+    "fecha_publicacion": ["9 mayo de 2031"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["214"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Ciencia"],
+    "fecha_publicacion": ["20 mayo de 2030"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["215"],
+    "documento_tipo": [1],
+    "nombre": ["future of governance"],
+    "autor": ["Ethan Turner"],
+    "enfoque": ["Ciencia"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Cultural Exchange"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["216"],
+    "documento_tipo": [1],
+    "nombre": ["policy and beyond"],
+    "autor": ["Olivia Harris"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["217"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["218"],
+    "documento_tipo": [1],
+    "nombre": ["policy pioneers"],
+    "autor": ["Sarah Johnson"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["7 diciembre de 2030"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["219"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["220"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["Elijah Hall"],
+    "enfoque": ["Arte"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Economic Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["221"],
+    "documento_tipo": [1],
+    "nombre": ["policy matters"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Educación"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Human Rights"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["222"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["Sophia Green"],
+    "enfoque": ["Emprendimiento"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Gender Equality"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["223"],
+    "documento_tipo": [1],
+    "nombre": ["leadership insights"],
+    "autor": ["James Michel"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["224"],
+    "documento_tipo": [1],
+    "nombre": ["policy and beyond"],
+    "autor": ["Ella Moore"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["15 febrero de 2030"],
+    "apartado": ["Educational Excellence"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["225"],
+    "documento_tipo": [1],
+    "nombre": ["leadership insights"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["18 septiembre de 2030"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["226"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Ethan Turner"],
+    "enfoque": ["Política"],
+    "fecha_publicacion": ["18 septiembre de 2030"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["227"],
+    "documento_tipo": [1],
+    "nombre": ["policy debates"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["3 agosto de 2030"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["228"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Medios de Comunicación"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Beyond Aid"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["229"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Social Equity"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["230"],
+    "documento_tipo": [1],
+    "nombre": ["leadership insights"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["3 agosto de 2030"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["231"],
+    "documento_tipo": [1],
+    "nombre": ["leadership insights"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["232"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["22 octubre de 2030"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["233"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["James Michel"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["234"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["20 mayo de 2030"],
+    "apartado": ["Cultural Exchange"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["235"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["9 mayo de 2031"],
+    "apartado": ["Economic Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["236"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Derecho"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["237"],
+    "documento_tipo": [1],
+    "nombre": ["future of governance"],
+    "autor": ["Ella Moore"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["238"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["20 mayo de 2030"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["239"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Noah Clark"],
+    "enfoque": ["Educación"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Cultural Exchange"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["240"],
+    "documento_tipo": [1],
+    "nombre": ["policy pioneers"],
+    "autor": ["Sophia Green"],
+    "enfoque": ["Arte"],
+    "fecha_publicacion": ["7 diciembre de 2030"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["241"],
+    "documento_tipo": [1],
+    "nombre": ["policy matters"],
+    "autor": ["Olivia Harris"],
+    "enfoque": ["Derecho"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["242"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Innovación"],
+    "fecha_publicacion": ["19 marzo de 2031"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["243"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Sarah Johnson"],
+    "enfoque": ["Diversidad"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["244"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["Ethan Turner"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Educational Excellence"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["245"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Sociedad"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Social Equity"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["246"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Elijah Hall"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["3 agosto de 2030"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["247"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["Ella Moore"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["248"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["Logan Anderson"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["249"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Diversidad"],
+    "fecha_publicacion": ["20 mayo de 2030"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["250"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Economic Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["251"],
+    "documento_tipo": [1],
+    "nombre": ["sustainable solutions"],
+    "autor": ["Ethan Turner"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["15 febrero de 2030"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["252"],
+    "documento_tipo": [1],
+    "nombre": ["sustainable solutions"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Human Rights"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["253"],
+    "documento_tipo": [1],
+    "nombre": ["policy pioneers"],
+    "autor": ["Ethan Turner"],
+    "enfoque": ["Emprendimiento"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["254"],
+    "documento_tipo": [1],
+    "nombre": ["future of governance"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["255"],
+    "documento_tipo": [1],
+    "nombre": ["policy and beyond"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["7 diciembre de 2030"],
+    "apartado": ["Human Rights"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["256"],
+    "documento_tipo": [1],
+    "nombre": ["policy and beyond"],
+    "autor": ["Sarah Johnson"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["15 febrero de 2030"],
+    "apartado": ["Human Rights"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["257"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Mia Brown"],
+    "enfoque": ["Derecho"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Gender Equality"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["258"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Social Equity"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["259"],
+    "documento_tipo": [1],
+    "nombre": ["future of governance"],
+    "autor": ["Mia Brown"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Beyond Aid"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["260"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["James Michel"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["261"],
+    "documento_tipo": [1],
+    "nombre": ["leadership insights"],
+    "autor": ["Ethan Turner"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["262"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["263"],
+    "documento_tipo": [1],
+    "nombre": ["policy matters"],
+    "autor": ["Noah Clark"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["264"],
+    "documento_tipo": [1],
+    "nombre": ["elements of the 2030 agenda"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Economic Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["265"],
+    "documento_tipo": [1],
+    "nombre": ["policy pioneers"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Política"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["266"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Arte"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["267"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Olivia Harris"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["268"],
+    "documento_tipo": [1],
+    "nombre": ["leadership insights"],
+    "autor": ["Logan Anderson"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["269"],
+    "documento_tipo": [1],
+    "nombre": ["global challenges"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["20 mayo de 2030"],
+    "apartado": ["Economic Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["270"],
+    "documento_tipo": [1],
+    "nombre": ["future of governance"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["15 febrero de 2030"],
+    "apartado": ["Cultural Exchange"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["271"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["Ella Moore"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Cultural Exchange"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["272"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["Ella Moore"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["273"],
+    "documento_tipo": [1],
+    "nombre": ["policy matters"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["14 junio de 2030"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["274"],
+    "documento_tipo": [1],
+    "nombre": ["sustainable solutions"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Cultural Exchange"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["275"],
+    "documento_tipo": [1],
+    "nombre": ["future of governance"],
+    "autor": ["Emily Davis"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Cultural Exchange"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["276"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Logan Anderson"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["277"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Mia Brown"],
+    "enfoque": ["Derecho"],
+    "fecha_publicacion": ["20 mayo de 2030"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["278"],
+    "documento_tipo": [1],
+    "nombre": ["global challenges"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Diversidad"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["279"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Innovación"],
+    "fecha_publicacion": ["15 febrero de 2030"],
+    "apartado": ["Gender Equality"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["280"],
+    "documento_tipo": [1],
+    "nombre": ["policy debates"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Arte"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Human Rights"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["281"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["20 mayo de 2030"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["282"],
+    "documento_tipo": [1],
+    "nombre": ["elements of the 2030 agenda"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["3 agosto de 2030"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["283"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Elijah Hall"],
+    "enfoque": ["Innovación"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["284"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["9 mayo de 2031"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["285"],
+    "documento_tipo": [1],
+    "nombre": ["future of governance"],
+    "autor": ["Ella Moore"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["286"],
+    "documento_tipo": [1],
+    "nombre": ["policy and beyond"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Sociedad"],
+    "fecha_publicacion": ["8 julio de 2030"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["287"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Diversidad"],
+    "fecha_publicacion": ["18 septiembre de 2030"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["288"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["James Michel"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["289"],
+    "documento_tipo": [1],
+    "nombre": ["policy debates"],
+    "autor": ["James Michel"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["14 junio de 2030"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["290"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["Ethan Turner"],
+    "enfoque": ["Innovación"],
+    "fecha_publicacion": ["3 agosto de 2030"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["291"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Emily Davis"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["292"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Sociedad"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["293"],
+    "documento_tipo": [1],
+    "nombre": ["global challenges"],
+    "autor": ["Ethan Turner"],
+    "enfoque": ["Ciencia"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["294"],
+    "documento_tipo": [1],
+    "nombre": ["policy pioneers"],
+    "autor": ["Ethan Turner"],
+    "enfoque": ["Política"],
+    "fecha_publicacion": ["20 mayo de 2030"],
+    "apartado": ["Human Rights"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["295"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Ethan Turner"],
+    "enfoque": ["Política"],
+    "fecha_publicacion": ["9 mayo de 2031"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["296"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Ava White"],
+    "enfoque": ["Sociedad"],
+    "fecha_publicacion": ["15 febrero de 2030"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["297"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Logan Anderson"],
+    "enfoque": ["Tecnología"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Economic Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["298"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Olivia Harris"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["3 agosto de 2030"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["299"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Olivia Harris"],
+    "enfoque": ["Sociedad"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["300"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Tecnología"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["301"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["302"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["Logan Anderson"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["7 diciembre de 2030"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["303"],
+    "documento_tipo": [1],
+    "nombre": ["policy and beyond"],
+    "autor": ["Olivia Harris"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["22 octubre de 2030"],
+    "apartado": ["Social Equity"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["304"],
+    "documento_tipo": [1],
+    "nombre": ["policy matters"],
+    "autor": ["Sarah Johnson"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Human Rights"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["305"],
+    "documento_tipo": [1],
+    "nombre": ["global challenges"],
+    "autor": ["Logan Anderson"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["306"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["20 mayo de 2030"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["307"],
+    "documento_tipo": [1],
+    "nombre": ["elements of the 2030 agenda"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Emprendimiento"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Economic Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["308"],
+    "documento_tipo": [1],
+    "nombre": ["elements of the 2030 agenda"],
+    "autor": ["Ava White"],
+    "enfoque": ["Diversidad"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Social Equity"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["309"],
+    "documento_tipo": [1],
+    "nombre": ["elements of the 2030 agenda"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Arte"],
+    "fecha_publicacion": ["19 marzo de 2031"],
+    "apartado": ["Gender Equality"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["310"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["311"],
+    "documento_tipo": [1],
+    "nombre": ["global challenges"],
+    "autor": ["Ava White"],
+    "enfoque": ["Medios de Comunicación"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Economic Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["312"],
+    "documento_tipo": [1],
+    "nombre": ["policy and beyond"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Política"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Social Equity"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["313"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Educación"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["314"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Ethan Turner"],
+    "enfoque": ["Arte"],
+    "fecha_publicacion": ["7 diciembre de 2030"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["315"],
+    "documento_tipo": [1],
+    "nombre": ["leadership insights"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Tecnología"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["316"],
+    "documento_tipo": [1],
+    "nombre": ["global challenges"],
+    "autor": ["James Michel"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["19 marzo de 2031"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["317"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["Ava White"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["318"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Innovación"],
+    "fecha_publicacion": ["19 marzo de 2031"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["319"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["19 marzo de 2031"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["320"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Medios de Comunicación"],
+    "fecha_publicacion": ["18 septiembre de 2030"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["321"],
+    "documento_tipo": [1],
+    "nombre": ["future of governance"],
+    "autor": ["Olivia Harris"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Economic Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["322"],
+    "documento_tipo": [1],
+    "nombre": ["policy and beyond"],
+    "autor": ["Logan Anderson"],
+    "enfoque": ["Política"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Cultural Exchange"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["323"],
+    "documento_tipo": [1],
+    "nombre": ["policy matters"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Emprendimiento"],
+    "fecha_publicacion": ["19 marzo de 2031"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["324"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Elijah Hall"],
+    "enfoque": ["Ciencia"],
+    "fecha_publicacion": ["22 octubre de 2030"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["325"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["326"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["Sophia Green"],
+    "enfoque": ["Emprendimiento"],
+    "fecha_publicacion": ["18 septiembre de 2030"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["327"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Ella Moore"],
+    "enfoque": ["Arte"],
+    "fecha_publicacion": ["20 mayo de 2030"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["328"],
+    "documento_tipo": [1],
+    "nombre": ["future of governance"],
+    "autor": ["Sarah Johnson"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["3 agosto de 2030"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["329"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Política"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Economic Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["330"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Mia Brown"],
+    "enfoque": ["Derecho"],
+    "fecha_publicacion": ["18 septiembre de 2030"],
+    "apartado": ["Social Equity"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["331"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["332"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["333"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Arte"],
+    "fecha_publicacion": ["22 octubre de 2030"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["334"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Educational Excellence"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["335"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Ciencia"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["336"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Diversidad"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["337"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Gender Equality"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["338"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["14 junio de 2030"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["339"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["20 mayo de 2030"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["340"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["Ella Moore"],
+    "enfoque": ["Sociedad"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Educational Excellence"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["341"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Emprendimiento"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["342"],
+    "documento_tipo": [1],
+    "nombre": ["policy matters"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Ciencia"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["343"],
+    "documento_tipo": [1],
+    "nombre": ["policy matters"],
+    "autor": ["Ava White"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["344"],
+    "documento_tipo": [1],
+    "nombre": ["policy debates"],
+    "autor": ["Sophia Green"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["345"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["7 diciembre de 2030"],
+    "apartado": ["Human Rights"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["346"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Sophia Green"],
+    "enfoque": ["Arte"],
+    "fecha_publicacion": ["14 junio de 2030"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["347"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["Emily Davis"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["18 septiembre de 2030"],
+    "apartado": ["Educational Excellence"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["348"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["Sarah Johnson"],
+    "enfoque": ["Innovación"],
+    "fecha_publicacion": ["7 diciembre de 2030"],
+    "apartado": ["Beyond Aid"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["349"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Sophia Green"],
+    "enfoque": ["Educación"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["350"],
+    "documento_tipo": [1],
+    "nombre": ["sustainable solutions"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Innovación"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Economic Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["351"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["352"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Medios de Comunicación"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Gender Equality"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["353"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Emily Davis"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["354"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["Noah Clark"],
+    "enfoque": ["Ciencia"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["355"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["356"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["22 octubre de 2030"],
+    "apartado": ["Educational Excellence"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["357"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Tecnología"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["358"],
+    "documento_tipo": [1],
+    "nombre": ["policy matters"],
+    "autor": ["Logan Anderson"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["7 diciembre de 2030"],
+    "apartado": ["Social Equity"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["359"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["Ava White"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Social Equity"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["360"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["Ethan Turner"],
+    "enfoque": ["Innovación"],
+    "fecha_publicacion": ["9 mayo de 2031"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["361"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["Sophia Green"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["362"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Olivia Harris"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Social Equity"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["363"],
+    "documento_tipo": [1],
+    "nombre": ["elements of the 2030 agenda"],
+    "autor": ["Mia Brown"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["364"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["365"],
+    "documento_tipo": [1],
+    "nombre": ["policy pioneers"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["366"],
+    "documento_tipo": [1],
+    "nombre": ["global challenges"],
+    "autor": ["James Michel"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["367"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Mia Brown"],
+    "enfoque": ["Tecnología"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["368"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["Sarah Johnson"],
+    "enfoque": ["Diversidad"],
+    "fecha_publicacion": ["7 diciembre de 2030"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["369"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Ella Moore"],
+    "enfoque": ["Educación"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["370"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["Ethan Turner"],
+    "enfoque": ["Sociedad"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["371"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["372"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["7 diciembre de 2030"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["373"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Noah Clark"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["374"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["3 agosto de 2030"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["375"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["22 octubre de 2030"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["376"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["Noah Clark"],
+    "enfoque": ["Innovación"],
+    "fecha_publicacion": ["3 agosto de 2030"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["377"],
+    "documento_tipo": [1],
+    "nombre": ["policy pioneers"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Ciencia"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Social Equity"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["378"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["20 mayo de 2030"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["379"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["18 septiembre de 2030"],
+    "apartado": ["Gender Equality"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["380"],
+    "documento_tipo": [1],
+    "nombre": ["leadership insights"],
+    "autor": ["Ava White"],
+    "enfoque": ["Arte"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["381"],
+    "documento_tipo": [1],
+    "nombre": ["elements of the 2030 agenda"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["15 febrero de 2030"],
+    "apartado": ["Social Equity"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["382"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["Mia Brown"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["383"],
+    "documento_tipo": [1],
+    "nombre": ["policy pioneers"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["3 agosto de 2030"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["384"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Tecnología"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["385"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Ella Moore"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["386"],
+    "documento_tipo": [1],
+    "nombre": ["leadership insights"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["387"],
+    "documento_tipo": [1],
+    "nombre": ["leadership insights"],
+    "autor": ["Elijah Hall"],
+    "enfoque": ["Política"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["388"],
+    "documento_tipo": [1],
+    "nombre": ["future of governance"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["389"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Gender Equality"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["390"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Derecho"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["391"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Medios de Comunicación"],
+    "fecha_publicacion": ["20 mayo de 2030"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["392"],
+    "documento_tipo": [1],
+    "nombre": ["policy and beyond"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Diversidad"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["393"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Diversidad"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["394"],
+    "documento_tipo": [1],
+    "nombre": ["policy debates"],
+    "autor": ["Logan Anderson"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["395"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["Noah Clark"],
+    "enfoque": ["Tecnología"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["396"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Noah Clark"],
+    "enfoque": ["Medios de Comunicación"],
+    "fecha_publicacion": ["20 mayo de 2030"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["397"],
+    "documento_tipo": [1],
+    "nombre": ["policy debates"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Arte"],
+    "fecha_publicacion": ["3 agosto de 2030"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["398"],
+    "documento_tipo": [1],
+    "nombre": ["policy pioneers"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Diversidad"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["399"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["20 mayo de 2030"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["400"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["Sophia Green"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Gender Equality"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["401"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["402"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Ella Moore"],
+    "enfoque": ["Sociedad"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Cultural Exchange"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["403"],
+    "documento_tipo": [1],
+    "nombre": ["sustainable solutions"],
+    "autor": ["Elijah Hall"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["404"],
+    "documento_tipo": [1],
+    "nombre": ["future of governance"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Economic Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["405"],
+    "documento_tipo": [1],
+    "nombre": ["sustainable solutions"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Política"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["406"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["James Michel"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["407"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Emily Davis"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["408"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Educación"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["409"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Educational Excellence"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["410"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["James Michel"],
+    "enfoque": ["Tecnología"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Human Rights"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["411"],
+    "documento_tipo": [1],
+    "nombre": ["sustainable solutions"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["14 junio de 2030"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["412"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["James Michel"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["413"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Medios de Comunicación"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Cultural Exchange"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["414"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Ella Moore"],
+    "enfoque": ["Sociedad"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["415"],
+    "documento_tipo": [1],
+    "nombre": ["sustainable solutions"],
+    "autor": ["Emily Davis"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["416"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["Ethan Turner"],
+    "enfoque": ["Diversidad"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["417"],
+    "documento_tipo": [1],
+    "nombre": ["elements of the 2030 agenda"],
+    "autor": ["Ava White"],
+    "enfoque": ["Medios de Comunicación"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["418"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Gender Equality"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["419"],
+    "documento_tipo": [1],
+    "nombre": ["policy matters"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["420"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["Elijah Hall"],
+    "enfoque": ["Innovación"],
+    "fecha_publicacion": ["18 septiembre de 2030"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["421"],
+    "documento_tipo": [1],
+    "nombre": ["elements of the 2030 agenda"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Derecho"],
+    "fecha_publicacion": ["18 septiembre de 2030"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["422"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Sociedad"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["423"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["7 diciembre de 2030"],
+    "apartado": ["Cultural Exchange"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["424"],
+    "documento_tipo": [1],
+    "nombre": ["sustainable solutions"],
+    "autor": ["Noah Clark"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["425"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["7 diciembre de 2030"],
+    "apartado": ["Cultural Exchange"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["426"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Elijah Hall"],
+    "enfoque": ["Innovación"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Cultural Exchange"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["427"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Diversidad"],
+    "fecha_publicacion": ["19 marzo de 2031"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["428"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Noah Clark"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["429"],
+    "documento_tipo": [1],
+    "nombre": ["leadership insights"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Educación"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["430"],
+    "documento_tipo": [1],
+    "nombre": ["sustainable solutions"],
+    "autor": ["Logan Anderson"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["431"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Noah Clark"],
+    "enfoque": ["Educación"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["432"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["Olivia Harris"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["433"],
+    "documento_tipo": [1],
+    "nombre": ["leadership insights"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Política"],
+    "fecha_publicacion": ["14 junio de 2030"],
+    "apartado": ["Social Equity"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["434"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Sarah Johnson"],
+    "enfoque": ["Ciencia"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["435"],
+    "documento_tipo": [1],
+    "nombre": ["sustainable solutions"],
+    "autor": ["Elijah Hall"],
+    "enfoque": ["Derecho"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Human Rights"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["436"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Olivia Harris"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["22 octubre de 2030"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["437"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Medios de Comunicación"],
+    "fecha_publicacion": ["11 noviembre de 2030"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["438"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["439"],
+    "documento_tipo": [1],
+    "nombre": ["elements of the 2030 agenda"],
+    "autor": ["Noah Clark"],
+    "enfoque": ["Innovación"],
+    "fecha_publicacion": ["15 febrero de 2030"],
+    "apartado": ["Educational Excellence"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["440"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Sarah Johnson"],
+    "enfoque": ["Educación"],
+    "fecha_publicacion": ["22 octubre de 2030"],
+    "apartado": ["Gender Equality"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["441"],
+    "documento_tipo": [1],
+    "nombre": ["impactful politics"],
+    "autor": ["Sophia Green"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["442"],
+    "documento_tipo": [1],
+    "nombre": ["policy debates"],
+    "autor": ["Ethan Turner"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["443"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Ella Moore"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["3 agosto de 2030"],
+    "apartado": ["Cultural Exchange"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["444"],
+    "documento_tipo": [1],
+    "nombre": ["future of governance"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["445"],
+    "documento_tipo": [1],
+    "nombre": ["policy pioneers"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Diversidad"],
+    "fecha_publicacion": ["9 mayo de 2031"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["446"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["James Michel"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["2 enero de 2031"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["447"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["Sophia Green"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Beyond Aid"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["448"],
+    "documento_tipo": [1],
+    "nombre": ["global challenges"],
+    "autor": ["Lucas Parker"],
+    "enfoque": ["Educación"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["449"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["James Michel"],
+    "enfoque": ["Emprendimiento"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["450"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Noah Clark"],
+    "enfoque": ["Medios de Comunicación"],
+    "fecha_publicacion": ["22 octubre de 2030"],
+    "apartado": ["Educational Excellence"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["451"],
+    "documento_tipo": [1],
+    "nombre": ["policy pioneers"],
+    "autor": ["Mia Brown"],
+    "enfoque": ["Educación"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["452"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["Ethan Turner"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Human Rights"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["453"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["James Michel"],
+    "enfoque": ["Tecnología"],
+    "fecha_publicacion": ["7 diciembre de 2030"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["454"],
+    "documento_tipo": [1],
+    "nombre": ["policy matters"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Social Equity"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["455"],
+    "documento_tipo": [1],
+    "nombre": ["vision 2030"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["22 octubre de 2030"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["456"],
+    "documento_tipo": [1],
+    "nombre": ["policy debates"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["14 junio de 2030"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["457"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["Sarah Johnson"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Economic Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["458"],
+    "documento_tipo": [1],
+    "nombre": ["future of governance"],
+    "autor": ["Sophia Green"],
+    "enfoque": ["Sociedad"],
+    "fecha_publicacion": ["14 junio de 2030"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["459"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Ciencia"],
+    "fecha_publicacion": ["8 julio de 2030"],
+    "apartado": ["Beyond Aid"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["460"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["James Michel"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["8 julio de 2030"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["461"],
+    "documento_tipo": [1],
+    "nombre": ["future of governance"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Diversidad"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Beyond Aid"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["462"],
+    "documento_tipo": [1],
+    "nombre": ["policy matters"],
+    "autor": ["Elijah Hall"],
+    "enfoque": ["Innovación"],
+    "fecha_publicacion": ["15 febrero de 2030"],
+    "apartado": ["Migration Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["463"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["Ava White"],
+    "enfoque": ["Ciencia"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Rural Empowerment"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["464"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["3 agosto de 2030"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["465"],
+    "documento_tipo": [1],
+    "nombre": ["leadership insights"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Sociedad"],
+    "fecha_publicacion": ["8 julio de 2030"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["466"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["18 septiembre de 2030"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["467"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["Amelia King"],
+    "enfoque": ["Medios de Comunicación"],
+    "fecha_publicacion": ["3 agosto de 2030"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["468"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["469"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["James Michel"],
+    "enfoque": ["Educación"],
+    "fecha_publicacion": ["14 junio de 2030"],
+    "apartado": ["Educational Excellence"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["470"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Ella Moore"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["3 agosto de 2030"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["471"],
+    "documento_tipo": [1],
+    "nombre": ["policy debates"],
+    "autor": ["Sarah Johnson"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["472"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["19 marzo de 2031"],
+    "apartado": ["Healthcare Reforms"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["473"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Ella Moore"],
+    "enfoque": ["Medios de Comunicación"],
+    "fecha_publicacion": ["22 octubre de 2030"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["474"],
+    "documento_tipo": [1],
+    "nombre": ["leadership insights"],
+    "autor": ["James Michel"],
+    "enfoque": ["Medios de Comunicación"],
+    "fecha_publicacion": ["9 mayo de 2031"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["475"],
+    "documento_tipo": [1],
+    "nombre": ["policy pioneers"],
+    "autor": ["Ethan Turner"],
+    "enfoque": ["Política"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Inclusive Policies"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["476"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["Mia Brown"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["14 junio de 2030"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["477"],
+    "documento_tipo": [1],
+    "nombre": ["leadership insights"],
+    "autor": ["Elijah Hall"],
+    "enfoque": ["Arte"],
+    "fecha_publicacion": ["5 abril de 2030"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["478"],
+    "documento_tipo": [1],
+    "nombre": ["agenda for change"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Emprendimiento"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["479"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Sociedad"],
+    "fecha_publicacion": ["20 mayo de 2030"],
+    "apartado": ["Environmental Sustainability"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["480"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Emily Davis"],
+    "enfoque": ["Innovación"],
+    "fecha_publicacion": ["14 junio de 2030"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["481"],
+    "documento_tipo": [1],
+    "nombre": ["global challenges"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["19 marzo de 2031"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["482"],
+    "documento_tipo": [1],
+    "nombre": ["society matters"],
+    "autor": ["David Thompson"],
+    "enfoque": ["Historia"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["483"],
+    "documento_tipo": [1],
+    "nombre": ["world affairs"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Salud"],
+    "fecha_publicacion": ["14 junio de 2030"],
+    "apartado": ["Gender Equality"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["484"],
+    "documento_tipo": [1],
+    "nombre": ["policy and beyond"],
+    "autor": ["Mia Brown"],
+    "enfoque": ["Derechos Humanos"],
+    "fecha_publicacion": ["20 mayo de 2030"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["485"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["Ava White"],
+    "enfoque": ["Arte"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Beyond Aid"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.6"]
+  },
+  {
+    "id_universal": ["486"],
+    "documento_tipo": [1],
+    "nombre": ["innovative governance"],
+    "autor": ["Mia Brown"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Global Governance"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["487"],
+    "documento_tipo": [1],
+    "nombre": ["global challenges"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Derecho"],
+    "fecha_publicacion": ["1 de enero de 2030"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["488"],
+    "documento_tipo": [1],
+    "nombre": ["leadership insights"],
+    "autor": ["Liam Walker"],
+    "enfoque": ["Cultura"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Human Rights"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["489"],
+    "documento_tipo": [1],
+    "nombre": ["policy matters"],
+    "autor": ["Mia Brown"],
+    "enfoque": ["Ambiente"],
+    "fecha_publicacion": ["30 julio de 2031"],
+    "apartado": ["Technological Innovations"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["490"],
+    "documento_tipo": [1],
+    "nombre": ["sustainable solutions"],
+    "autor": ["Logan Anderson"],
+    "enfoque": ["Tecnología"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Climate Action"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["491"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["Ethan Turner"],
+    "enfoque": ["Religión"],
+    "fecha_publicacion": ["9 mayo de 2031"],
+    "apartado": ["Economic Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["492"],
+    "documento_tipo": [1],
+    "nombre": ["politics in focus"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Deportes"],
+    "fecha_publicacion": ["25 agosto de 2031"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["493"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["Emma Wilson"],
+    "enfoque": ["Emprendimiento"],
+    "fecha_publicacion": ["10 marzo de 2030"],
+    "apartado": ["Crisis Management"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.10"]
+  },
+  {
+    "id_universal": ["494"],
+    "documento_tipo": [1],
+    "nombre": ["progressive politics"],
+    "autor": ["Michael Carter"],
+    "enfoque": ["Emprendimiento"],
+    "fecha_publicacion": ["18 septiembre de 2030"],
+    "apartado": ["Digital Transformation"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["495"],
+    "documento_tipo": [1],
+    "nombre": ["policy debates"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["26 febrero de 2031"],
+    "apartado": ["Urban Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["496"],
+    "documento_tipo": [1],
+    "nombre": ["power and society"],
+    "autor": ["Ella Moore"],
+    "enfoque": ["Medios de Comunicación"],
+    "fecha_publicacion": ["4 junio de 2031"],
+    "apartado": ["Social Equity"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["497"],
+    "documento_tipo": [1],
+    "nombre": ["shaping the future"],
+    "autor": ["James Michel"],
+    "enfoque": ["Sociedad"],
+    "fecha_publicacion": ["13 abril de 2031"],
+    "apartado": ["Peacebuilding"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  },
+  {
+    "id_universal": ["498"],
+    "documento_tipo": [1],
+    "nombre": ["future of governance"],
+    "autor": ["Daniel Lee"],
+    "enfoque": ["Filosofía"],
+    "fecha_publicacion": ["15 febrero de 2030"],
+    "apartado": ["Economic Development"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.8"]
+  },
+  {
+    "id_universal": ["499"],
+    "documento_tipo": [1],
+    "nombre": ["global perspectives"],
+    "autor": ["Sarah Johnson"],
+    "enfoque": ["Innovación"],
+    "fecha_publicacion": ["14 junio de 2030"],
+    "apartado": ["Youth Engagement"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.9"]
+  },
+  {
+    "id_universal": ["500"],
+    "documento_tipo": [1],
+    "nombre": ["global challenges"],
+    "autor": ["Grace Martinez"],
+    "enfoque": ["Economía"],
+    "fecha_publicacion": ["22 octubre de 2030"],
+    "apartado": ["Beyond Aid"],
+    "enlace": ["https://www.jstor.org/stable/resrep23313.7"]
+  }
+]
