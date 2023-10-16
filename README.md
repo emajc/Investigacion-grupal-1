@@ -76,4 +76,4 @@ Consulte el informe completo [aquí](#enlace-a-documento-de-analisis) para obten
 | Facilidad de Uso               | Los modelos de datos son en documentos tipo JSON y cuenta con una interfaz gráfica Project Fauxton.                               |                           |
 | Herramientas de Gestión               | Por medio del administrador se configuraron los aspectos del servidor como las herramientas de seguridad y por medio del monitoreo de clústers se lleva el control del rendimiento.                                |                           |
 | Consultas               | Se realizan por medio de pasos como la creación de vistas, generación de documentos y almacenamiento de las vistas.                              |                           |
-| Almacenamiento               |                               |                           |
+| Almacenamiento               | Se realizó por medio de JSON con clave-valor para simplificar la codificación e interpretación de datos.                              |                           |
