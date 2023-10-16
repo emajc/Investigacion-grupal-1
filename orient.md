@@ -70,6 +70,8 @@ Una vez haya instalado correctamente OrientDB, tiene dos opciones para cargar la
 
 6. En OrientDB Studio, seleccione la opción "Schema" y asegúrese de que las clases Vertex estén creadas, incluyendo V, Escrito, Multimedia, Libros, Películas, Twitch, Canciones y Podcasts.
 
+7. Alimente la base de datos con 2500 entradas. Para ello vaya a la carpeta [Datos OrientDB](DatosOrientDB). Ahí encontrará cinco documentos txt con el código para insertar 500 datos por cada clase (tipo de archivo). Clase por clase (por cada documento en la carpeta), copie el código del txt. En OrientDB Studio, vaya a la sección "Search" y en el cuadro de texto, pegue el código copiado anteriormente. Seleccione la opción "Run". Verá la inserción de datos debajo del cuadro de texto posteriormente.  (Nota: tendrá que hacer esto cinco veces, una por cada documento txt (uno para Peliculas, Canciones, etc...)).
+
 ### Opción 2.2
 
 1. Abra el archivo `server.bat` en la carpeta `bin` que se encuentra en la carpeta de la descarga de OrientDB.
