@@ -38,7 +38,7 @@ OrientDB es otra base de datos NoSQL que combina las características de una bas
 
 ## Características de la base de datos.
 
-En ambos casos, abordamos la exploración de cinco tipos de documentos: Libros, Canciones, Podcasts, Canales de Twitch y Películas. Estos tipos se categorizaron en CouchDB mediante un identificador único (ID) y en OrientDB mediante clases. Para cada uno de estos tipos de documentos, se seleccionaron variables o propiedades específicas que se consideran esenciales en un repositorio o biblioteca digital, dependiendo del tipo de archivo.
+En ambos casos, abordamos la exploración de cinco tipos de documentos: Libros, Canciones, Podcasts, Canales de Twitch y Películas. Estos tipos se categorizaron en CouchDB mediante una característica o atributo (llamada tipo) y en OrientDB mediante clases. Para cada uno de estos tipos de documentos, se seleccionaron variables o propiedades específicas que se consideran esenciales en un repositorio o biblioteca digital, dependiendo del tipo de archivo.
 
 CouchDB se caracteriza por su flexibilidad en cuanto a las variables o propiedades que se pueden incluir en cada registro. Esto se debe a que CouchDB trabaja con bases de datos completamente no estructuradas, lo que le otorga una versatilidad excepcional en la diversidad de datos que puede contener en cada registro.
 
