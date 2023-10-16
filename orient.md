@@ -36,7 +36,7 @@ Siguiendo estos pasos, habrá instalado y configurado OrientDB en su sistema y e
 
 Una vez haya instalado correctamente OrientDB, tiene dos opciones para cargar la base de datos.
 
-## Opción 1: Carga por Medio de la Consola de OrientDB
+## Opción 1: Carga por Medio de la Consola de OrientDB (Recomendada)
 
 1. Abra el archivo `server.bat` en la carpeta `bin` que se encuentra en la carpeta de la descarga de OrientDB.
 
