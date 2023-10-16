@@ -68,12 +68,12 @@ Para analizar y comparar ambos programas en relación con las ventajas y desvent
 
 Consulte el informe completo [aquí](#enlace-a-documento-de-analisis) para obtener detalles sobre sus conclusiones y recomendaciones.
 
-|                | First Header  | Second Header |
-| -------------  | ------------- | ------------- |
-|                |               |               |
-|                |               |               |
-|                |               |               |
-|                |               |               |
-|                |               |               |
-|                |               |               |
-|                |               |               |
+|                |Couch DB (couchdb.apache.org/) | Orient DB (orientdb.org/) |
+| -------------  | -------------                 | -------------             |
+|                |                               |                           |
+|                |                               |                           |
+|                |                               |                           |
+|                |                               |                           |
+|                |                               |                           |
+|                |                               |                           |
+|                |                               |                           |
