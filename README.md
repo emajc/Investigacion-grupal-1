@@ -74,6 +74,6 @@ Consulte el informe completo [aquí](#enlace-a-documento-de-analisis) para obten
 |  Inserción de Datos              | Tiene la capacidad de vincular múltiples servidores con entradas de datos para aumentar su rendimiento.                               |                           |
 | Recuperación de Datos               | Tiene la capacidad de recibir gran cantidad de entrada de datos trabajándose en tiempos rápidos y eficientes.                              |                           |
 | Facilidad de Uso               | Los modelos de datos son en documentos tipo JSON y cuenta con una interfaz gráfica Project Fauxton.                               |                           |
-| Herramientas de Gestión               |                               |                           |
+| Herramientas de Gestión               | Por medio del administrador se configuraron los aspectos del servidor como las herramientas de seguridad y por medio del monitoreo de clústers se lleva el control del rendimiento.                                |                           |
 | Consultas               |                               |                           |
 | Almacenamiento               |                               |                           |
