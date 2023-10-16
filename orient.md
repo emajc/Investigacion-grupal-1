@@ -79,3 +79,5 @@ Una vez haya instalado correctamente OrientDB, tiene dos opciones para cargar la
 3. Vaya al documento de este repositorio [Código txt de Base de Datos OrientDB](codigobaseorientdb) y copie y pegue línea por línea el código del documento en la sección "Search" de OrientDB Studio.
 
 4. En OrientDB Studio, seleccione la opción "Schema" y asegúrese de que las clases Vertex estén creadas, incluyendo V, Escrito, Multimedia, Libros, Películas, Twitch, Canciones y Podcasts.
+
+5. Alimente la base de datos con 2500 entradas. Para ello vaya al documento [Datos OrientDB](datosorient.txt), copie todo el contenido del documento. Posteriormente, vaya a OrientDB Studio, seleccione la ventana "Search" y pegue el código en el cuadro de texto. Posteriormente, seleccione la opción "Run". 
