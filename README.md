@@ -70,10 +70,10 @@ Consulte el informe completo [aquí](#enlace-a-documento-de-analisis) para obten
 
 |                |Couch DB (couchdb.apache.org/) | Orient DB (orientdb.org/) |
 | -------------  | -------------                 | -------------             |
-|                |                               |                           |
-|                |                               |                           |
-|                |                               |                           |
-|                |                               |                           |
-|                |                               |                           |
-|                |                               |                           |
-|                |                               |                           |
+|   Consistencia             |                               |                           |
+|  Inserción de Datos              |                               |                           |
+| Recuperación de Datos               |                               |                           |
+| Facilidad de Uso               |                               |                           |
+| Herramientas de Gestión               |                               |                           |
+| Consultas               |                               |                           |
+| Almacenamiento               |                               |                           |
