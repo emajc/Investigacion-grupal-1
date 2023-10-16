@@ -22,7 +22,7 @@ Una vez haya instalado correctamente CouchDB, el procedimiento para cargar la ba
 
 ### 4. Importación de Datos
 
-Una vez haya instalado CouchDB y haya creado la base de datos en Fauxton, descargue el archivo JSON llamado datoscouch [aquí](enlace-al-archivo-JSON-en-el-repositorio), disponible en este repositorio.
+Una vez haya instalado CouchDB y haya creado la base de datos en Fauxton, descargue el archivo JSON llamado datoscouch [aquí](datoscouch.json), disponible en este repositorio.
 
 ### 5. Ejecutar la Importación
 
