@@ -31,3 +31,4 @@ Luego de descargar el archivo, abra su terminal o línea de comandos y ejecute l
 ```bash
 curl -X POST -H "Content-Type: application/json" --data-binary @ubicacion_del_documento_datoscouch.JSON_descargado -u usuario_con_el_que_configuro_couchdb:contraseña_con_la_que_configuro_couchdb http://localhost:5984/nombre_de_su_base_de_datos/_bulk_docs
 
+### 6. Compruebe en Fauxton que existan 2500 documentos.
