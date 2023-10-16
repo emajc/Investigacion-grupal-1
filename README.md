@@ -71,7 +71,7 @@ Consulte el informe completo [aquí](#enlace-a-documento-de-analisis) para obten
 |                |Couch DB (couchdb.apache.org/) | Orient DB (orientdb.org/) |
 | -------------  | -------------                 | -------------             |
 |   Consistencia             |  Procesa múltiples réplicas de datos generados y es capaz de almacenarlos aunque el sistema falle.                             |                           |
-|  Inserción de Datos              |                               |                           |
+|  Inserción de Datos              | Tiene la capacidad de vincular múltiples servidores con entradas de datos para aumentar su rendimiento.                               |                           |
 | Recuperación de Datos               |                               |                           |
 | Facilidad de Uso               |                               |                           |
 | Herramientas de Gestión               |                               |                           |
