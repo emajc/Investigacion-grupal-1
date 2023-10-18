@@ -56,7 +56,7 @@ Para esta sección, se dan indicaciones bajo la premisa del  uso de una computad
 
 ## Análisis y Comparación
 
-Para analizar y comparar ambos programas en relación con las ventajas y desventajas de usar bases de datos orientadas a documentos, hemos preparado un informe detallado que puede encontrar [aquí](#enlace-a-documento-de-analisis). A continuación, destacamos algunos de los puntos clave que hemos evaluado:
+Para analizar y comparar ambos programas en relación con las ventajas y desventajas de usar bases de datos orientadas a documentos, hemos preparado un informe detallado que puede encontrar [aquí](PaperFinal.pdf). A continuación, destacamos algunos de los puntos clave que hemos evaluado:
 
 - **Consistencia**: Evaluación de la consistencia de los datos en la base de datos.
 - **Desempeño en la inserción de datos**: Medición del rendimiento al agregar nuevos datos.
@@ -66,7 +66,7 @@ Para analizar y comparar ambos programas en relación con las ventajas y desvent
 - **Método utilizado para hacer consultas**: Descripción de los métodos y lenguajes utilizados para realizar consultas.
 - **Almacenamiento**: Análisis de cómo se almacenan y gestionan los datos en la base de datos.
 
-Consulte el informe completo [aquí](PaperFinal.pdf) para obtener detalles sobre sus conclusiones y recomendaciones.
+Consulte el informe completo [aquí]() para obtener detalles sobre sus conclusiones y recomendaciones.
 
 |                |**Couch DB (couchdb.apache.org/)** | **Orient DB (orientdb.org/)**|
 | -------------  | -------------                 | -------------             |
