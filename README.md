@@ -44,7 +44,7 @@ CouchDB se caracteriza por su flexibilidad en cuanto a las variables o propiedad
 
 Por otro lado, OrientDB está diseñado para manejar datos semiestructurados, por lo que se optó por trabajar con un conjunto de variables predefinidas y fijas para cada clase. Esto permite mantener una estructura más controlada en la base de datos.
 
-En resumen, cada uno de los cinco tipos de documentos se compone de diez registros, lo que nos brinda la oportunidad de crear bases de datos con la misma información y, al mismo tiempo, comparar de manera efectiva la estructura y funcionalidad de CouchDB y OrientDB en este contexto específico.
+En resumen, cada uno de los cinco tipos de documentos se compone de 500 registros, lo que nos brinda la oportunidad de crear bases de datos con la misma información y, al mismo tiempo, comparar de manera efectiva la estructura y funcionalidad de CouchDB y OrientDB en este contexto específico.
 # Bases de Datos
 
 ## Acceso a las Bases de Datos
